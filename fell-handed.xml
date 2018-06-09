@@ -30,8 +30,6 @@
             <description>You master the handaxe, battleaxe, greataxe, warhammer, and maul.</description>
         </sheet>
         <rules>
-            <stat name="Attack Bonus" value="1" />
-            <stat name="fell-handed:meleeMiss" value="Strength Modifier" bonus="ability" />
         </rules>
     </element>
 
