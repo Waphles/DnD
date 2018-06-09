@@ -85,11 +85,6 @@
             <description>You create your food through Photosynthesis, being in sunlight will regenerate 1d4 health per hour, likewise, if you aren't in sunlight for two days you will start to decay.</description>
         </sheet>
     </element>
-    <element name="Do Crazy Things" type="Racial Trait" source="Totally Made Up" id="ID_MADE_UP_RACIAL_TRAIT_DRYAD_DOCRAZYTHINGS">
-         <description>
-            <p>You can Do Crazy Things. Whenever you Do A Thing, instead Do A Crazy Thing.</p>
-         </description>
-    </element>
     <element name="Tree Stride" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_DRYAD_TREE_STRIDE">
         <description>
             <p>Over time you have learned the skill of using trees as a type of transportation. Once a turn, You can use 10 feet of your movement to step magically into one living tree within your reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.</p>
