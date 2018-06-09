@@ -5,7 +5,7 @@
         <description>5e Unearthed Arcana</description>
         <author url="https://old.reddit.com/r/UnearthedArcana/comments/5twz0b/codex_unearthed_arcana/">Reddit</author>
         <update version="0.1">
-            <file name="feats.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana/feats.xml" />
+            <file name="fell-handed.xml" url="https://raw.githubusercontent.com/Waphles/unearthed-arcana/fell-handed.xml" />
         </update>
     </info>
     
