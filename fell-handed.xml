@@ -15,7 +15,7 @@
         <requirements></requirements>
         <description>
             <p><i></i></p>
-            <p>You master the handaxe, battleaxe, greataxe, warhammer, and maul. You gain the following benefits when using any of them:</p>
+            <p>You master the handaxe, battleaxe, greataxe, warhammer, and maul. You gain the following benefits when using any $(fell-handed:meleeMiss) of them:</p>
             <ul>
                 <li>You gain a +1 bonus to attack rolls you make with the weapon.</li>
                 <li>Whenever you have advantage on a melee attack roll you make with the weapon and hit, you can knock the target prone if the lower of the two d20 rolls would also hit the target.</li>
