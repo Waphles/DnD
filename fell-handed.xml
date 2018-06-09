@@ -27,7 +27,7 @@
             <set name="sourceUrl">https://old.reddit.com/r/UnearthedArcana/comments/5twz0b/codex_unearthed_arcana/</set>
         </setters>
         <sheet>
-            <description>You master the handaxe, battleaxe, greataxe, warhammer, and maul.</description>
+            <description>You master the +$(fell-handed:meleeMiss) handaxe, +$(fell-handed:meleeMiss)battleaxe, greataxe, warhammer, and $(fell-handed:meleeMiss) maul.</description>
         </sheet>
         <rules>
             <stat name="Attack Bonus" value="1" />
