@@ -5,7 +5,7 @@
         <description>5e homebrew</description>
         <author url="http://www.dandwiki.com/wiki/5e_Homebrew">D&amp;D Wiki</author>
         <update version="0.0.2">
-            <file name="race-dryad.xml" url="https://raw.githubusercontent.com/Waphles/Unearthed-Arcana/race-dryad.xml" />
+            <file name="race-dryad.xml" url="https://raw.githubusercontent.com/Waphles/Unearthed-Arcana/master/race-dryad.xml" />
         </update>
     </info>
 
