@@ -72,7 +72,7 @@
       <grant type="Racial Trait" name="ID_RACIAL_TRAIT_LIVING_DEAD" />
       <grant type="Racial Trait" name="ID_RACIAL_TRAIT_HUMAN_HERITAGE" />
       <grant type="Racial Trait" name="ID_RACIAL_TRAIT_LIFEBLOOD" />
-      
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_EXTRA_LANGUAGE" />
     </rules>
   </element>
   
