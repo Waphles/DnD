@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>13 Feats + Feats fixes</name>
+        <description>5e Homebrew</description>
+        <author url="http://www.wargamevault.com/product/174073/13-Feats--Feat-Fixes-5e">Supreme Slayer</author>
+        <update version="0.0.1">
+            <file name="13-feats.xml" url="https://raw.githubusercontent.com/Waphles/DnD/Homebrew/master/Feats/13-feats.xml" />
+        </update>
+    </info>
+    
+    <element name="Bully" type="Feat" source="5e Homebrew" id="ID_HOMEBREW_FEAT_BULLY">
+        <supports />
+        <prerequisite></prerequisite>
+        <requirements></requirements>
+        <description>
+            <p><i></i></p>
+            <p>You've mastered the brutal art of kicking your opponent while they're down and taking advantage of any and every opening you can find, gaining the following benefits:</p>
+            <ul>
+                <li>You have Advantage on Opportunity Attacks.</li>
+                <li>You are granted an Opportunity Attack when a creature within your reach attemps to stand up from being Prone.</li>
+                <li>When you are granted an Opportunity Attack against a creature, instead of a melee attack you may choose to perform a Shove attempt against that creature, with Advantage on your roll.</li>
+            </ul>
+        </description>
+        <setters>
+            <set name="sourceUrl">http://www.wargamevault.com/product/174073/13-Feats--Feat-Fixes-5e</set>
+        </setters>
+        <sheet>
+            <description>You've mastered the brutal art of kicking your opponent while they're down and taking advantage of any and every opening you can find.</description>
+        </sheet>
+        <rules>
+        </rules>
+    </element>
+
+    <element name="Second Skin" type="Feat" source="5e Homebrew" id="ID_HOMEBREW_FEAT_SECOND_SKIN">
+        <supports />
+        <prerequisite></prerequisite>
+        <requirements></requirements>
+        <description>
+            <p><i></i></p>
+            <p>You've become so accustomed to wearing your armor that it no longer feels like it's there to you, granting the following benefits:</p>
+            <ul>
+                <li>Increase your Strength or Dexterity score by 1, to a maximum of 20.</li>
+                <li>You don and doff armor in half the normal time, or 1/4 the normal time if assisted.</li>
+                <li>You can don or doff a shield using your free item interaction for the turn, instead of as an action.</li>
+                <li>While moving at half your normal speed or resting, you do not take any penalties or disadvantages to your ability checks normally imposed by wearing medium or heavy armor.</li>
+            </ul>
+        </description>
+        <setters>
+            <set name="sourceUrl">http://www.wargamevault.com/product/174073/13-Feats--Feat-Fixes-5e</set>
+        </setters>
+        <sheet>
+            <description>You've mastered the brutal art of kicking your opponent while they're down and taking advantage of any and every opening you can find.</description>
+        </sheet>
+        <rules>
+          <select type="Ability Score Improvement" name="Second Skin" supports="ID_PHB_FEAT_ASI_STRENGTH|ID_PHB_FEAT_ASI_DEXTERITY" />
+        </rules>
+    </element>
+</elements>
