@@ -52,9 +52,9 @@
     </description>
     <sheet display="false" />
     <setters>
-      <set name="names" type="male">
-      <set name="names" type="female">
-      <set name="names" type="family">
+      <set name="names" type="male"></set>
+      <set name="names" type="female"></set>
+      <set name="names" type="family"></set>
       <set name="names-format">$(name) $(family)</set>
       <set name="height" modifier="2d10">4'6"</set>
       <set name="weight" modifier="1d4">90 lb.</set>
