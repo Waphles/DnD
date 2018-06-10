@@ -12,10 +12,10 @@
   <element name="Tunnel Fighter" type="Class Feature" source="Unearthed Arcana" id="ID_UNEARTHED_ARCANA_CLASS_FEATURE_FIGHTINGSTYLE_TUNNEL_FIGHTER">
     <supports>Fighting Style, Fighter, Ranger</supports>
     <description>
-      <p>You excel at defending narrow passages, doorways, and other tight spaces.</p>
+      <p>You excel at defending narrow passages, doorways, and other tight spaces. As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.</p>
     </description>
     <sheet>
-      As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
+      You excel at defending narrow passages, doorways, and other tight spaces. As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach. As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
     </sheet>
   </element>
 </elements>
