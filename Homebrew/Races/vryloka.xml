@@ -10,7 +10,7 @@
       <file name="vryloka.xml" url="https://raw.githubusercontent.com/Waphles/DnD/Homebrew/Races/vryloka.xml" />
     </update>
   </info>
-  <element name="Vryloka" type="Race" source="Vryloka Race v5" id=RACE_VRYLOKA">
+  <element name="Vryloka" type="Race" source="Vryloka Race v5" id="RACE_VRYLOKA">
     <supports />
     <description>
       <p class="flavor">Uncounted centuries ago, the noble families of a nowforgotten kingdom sought a way to increase their life span beyond the meagre years allotted to them by their human heritage. They were approached by a mysterious entity known only as the Red Witch—a scarlet-clad figure who offered to them a blond-bonding ritual with a dark lord that would grant them the vitality of vampires without subjecting them to the taint of undeath. In later centuries, these creatures became known by the name of the first noble family to forge the pact: the Vrylokas.</p>
