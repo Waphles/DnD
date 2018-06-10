@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Homebrew - Feats</name>
+		<description>Homebrew feats from various third party sources, mostly 5e Wiki.</description>
+		<author url=""></author>
+		<update version="0.0.1">
+			<file name="feats.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/feats.index" />
+		</update>
+	</info>
+	<files>
+		<file name="13-feats.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/Feats/13-feats.xml" />
+	</files>
+</index>
