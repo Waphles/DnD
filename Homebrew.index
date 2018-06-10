@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Homebrew</name>
+		<description>The content from various third party sources, mostly 5e Wiki.</description>
+		<author url=""></author>
+		<update version="0.1.2">
+			<file name="homebrew.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/homebrew.index" />
+		</update>
+	</info>
+	<files>
+		<file name="Equipment.index" url="https://raw.githubusercontent.com//Waphles/DnD/Homebrew/master/Equipment.index" />
+		<file name="Races.index" url="https://raw.githubusercontent.com/Waphles/DnD/Homebrew/master/Races.index" />
+	</files>
+</index>
