@@ -76,7 +76,7 @@
     </rules>
   </element>
   
-  <element name="Undead Resistance" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_UNDEAD_RESISTANCE">
+  <element name="Undead Resistance" type="Racial Trait" source="Vryloka Race v5" id="ID_RACIAL_TRAIT_UNDEAD_RESISTANCE">
     <supports></supports>
     <requirements />
     <description>
@@ -90,7 +90,7 @@
     </rules>
   </element>
   
-  <element name="Stealthy Hunter" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_STEALTHY_HUNTER">
+  <element name="Stealthy Hunter" type="Racial Trait" source="Vryloka Race v5" id="ID_RACIAL_TRAIT_STEALTHY_HUNTER">
     <supports></supports>
     <requirements />
     <description>
@@ -104,7 +104,7 @@
     </rules>
   </element>
   
-  <element name="Blood Dependency" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_BLOOD_DEPENDENCY">
+  <element name="Blood Dependency" type="Racial Trait" source="Vryloka Race v5" id="ID_RACIAL_TRAIT_BLOOD_DEPENDENCY">
     <supports></supports>
     <requirements />
     <description>
@@ -117,7 +117,7 @@
     </rules>
   </element>
   
-  <element name="Living Dead" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_LIVING_DEAD">
+  <element name="Living Dead" type="Racial Trait" source="Vryloka Race v5" id="ID_RACIAL_TRAIT_LIVING_DEAD">
     <supports></supports>
     <requirements />
     <description>
@@ -130,7 +130,7 @@
     </rules>
   </element>
   
-  <element name="Human Heritage" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_HUMAN_HERITAGE">
+  <element name="Human Heritage" type="Racial Trait" source="Vryloka Race v5" id="ID_RACIAL_TRAIT_HUMAN_HERITAGE">
     <supports></supports>
     <requirements />
     <description>
@@ -143,7 +143,7 @@
     </rules>
   </element>
   
-  <element name="Lifeblood" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_LIFEBLOOD">
+  <element name="Lifeblood" type="Racial Trait" source="Vryloka Race v5" id="ID_RACIAL_TRAIT_LIFEBLOOD">
     <supports></supports>
     <requirements />
     <description>
