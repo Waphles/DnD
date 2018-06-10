@@ -10,7 +10,7 @@
   </info>
   
   <element name="Tunnel Fighter" type="Class Feature" source="Unearthed Arcana" id="ID_UNEARTHED_ARCANA_CLASS_FEATURE_FIGHTINGSTYLE_TUNNEL_FIGHTER">
-    <supports>Fighting Style, Fighter, Ranger, Vampire</supports>
+    <supports>Fighting Style, Fighter, Ranger</supports>
     <description>
       <p>You excel at defending narrow passages, doorways, and other tight spaces.</p>
     </description>
