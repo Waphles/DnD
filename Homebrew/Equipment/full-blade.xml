@@ -2,7 +2,7 @@
 	  <supports>ID_INTERNAL_WEAPON_PROPERTY_MELEE, ID_INTERNAL_WEAPON_PROPERTY_MARTIAL, ID_INTERNAL_WEAPON_PROPERTY_SLASHING, </supports>
 	  <description>
 		  <p>An oversized greatsword, only the strongest will be able to wield this mighty blade.</p>
-			<p>A Small creature cannot use this weapon.
+		  <p>A Small creature cannot use this weapon.</p>
 			<p>When wielded by a Medium creature, it is a Heavy, Two-Handed weapon that does 2d8 damage and imposes Disadvantage on attack rolls.</p>
 			<p>When wielded by a Large creature, it is a Heavy, Two-Handed weapon that does 2d8 damage.</p>
 	  </description>
