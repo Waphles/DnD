@@ -1,3 +1,14 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+  <info>
+    <name>Full Blade</name>
+    <description>An oversized greatsword, only the strongest will be able to wield this mighty blade.</description>
+    <author url="https://www.dandwiki.com/wiki/Oversized_(5e_Variant_Rule)"></author>
+    <update version="0.0.1">
+      <file name="full-blade.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/Equipment/full-blade.xml" />
+    </update>
+	</info>	
 	<element name="Full Blade" type="Item" source="5e Wiki" id="ID_HOMEBREW_ITEM_FULL_BLADE">
 	  <supports>ID_INTERNAL_WEAPON_PROPERTY_MELEE, ID_INTERNAL_WEAPON_PROPERTY_MARTIAL, ID_INTERNAL_WEAPON_PROPERTY_SLASHING, </supports>
 	  <description>
@@ -14,6 +25,8 @@
 			<set name="damage">2d8 slashing</set>
 			<set name="heavy"></set>
 			<set name="two-handed"></set>
+			<set name="oversized"></set>
 	  </setters>
 	  <rules />
 	</element>
+</elements>
