@@ -1,0 +1,13 @@
+	<element name="Full Blade" type="Item" source="5e Wiki" id="ID_HOMEBREW_ITEM_FULL_BLADE">
+	  <supports></supports>
+	  <description>
+	    <p>An oversized greatsword, when weilded by a Large creature it is a Heavy, Two-Handed weapon that deals 2d8 damage. When wielded by a Medium creature, it is a Heavy, Two Handed weapon that does 2d8 damage and imposes Disadvantage on attack rolls.</p>
+	  </description>
+	  <setters>
+	    <set name="category">Full Blade</set>
+	    <set name="cost" currency="gp">100</set>
+	    <set name="weight" lb="2">12 lb.</set>
+	    <set name="container"></set>
+	  </setters>
+	  <rules />
+	</element>
