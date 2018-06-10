@@ -11,5 +11,6 @@
 	<files>
 		<file name="equipment.index" url="https://raw.githubusercontent.com//Waphles/DnD/master/Homebrew/equipment.index" />
 		<file name="races.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/races.index" />
+		<file name="feats.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/feats.index" />
 	</files>
 </index>
