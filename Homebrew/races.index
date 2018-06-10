@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Homebrew - Races</name>
+		<description>Homebrew races from various third party sources, mostly 5e Wiki.</description>
+		<author url=""></author>
+		<update version="0.0.1">
+			<file name="races.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/races.index" />
+		</update>
+	</info>
+	<files>
+		<file name="vryloka.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/Races/vryloka.xml" />
+	</files>
+</index>
