@@ -1,15 +1,19 @@
 	<element name="Full Blade" type="Item" source="5e Wiki" id="ID_HOMEBREW_ITEM_FULL_BLADE">
 	  <supports>ID_INTERNAL_WEAPON_PROPERTY_MELEE, ID_INTERNAL_WEAPON_PROPERTY_MARTIAL, ID_INTERNAL_WEAPON_PROPERTY_SLASHING, </supports>
 	  <description>
-		<p>An oversized greatsword, only the strongest will be able to wield this mighty blade.
-				<p>When wielded by a Medium creature, it is a Heavy, Two Handed weapon that does 2d8 damage and imposes Disadvantage on attack rolls.</p>
-				<p>When weilded by a Large creature it is a Heavy, Two-Handed weapon that deals 2d8 damage.</p>
+		  <p>An oversized greatsword, only the strongest will be able to wield this mighty blade.</p>
+			<p>A Small creature cannot use this weapon.
+			<p>When wielded by a Medium creature, it is a Heavy, Two-Handed weapon that does 2d8 damage and imposes Disadvantage on attack rolls.</p>
+			<p>When wielded by a Large creature, it is a Heavy, Two-Handed weapon that does 2d8 damage.</p>
 	  </description>
 	  <setters>
-	    <set name="category">Full Blade</set>
+	    <set name="category">Weapon</set>
 	    <set name="cost" currency="gp">100</set>
 	    <set name="weight" lb="2">12 lb.</set>
-	    <set name="container"></set>
+			<set name="slot">mainhand</set>
+			<set name="damage">2d8 slashing</set>
+			<set name="heavy"></set>
+			<set name="two-handed"></set>
 	  </setters>
 	  <rules />
 	</element>
