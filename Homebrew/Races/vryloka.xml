@@ -76,6 +76,20 @@
     </rules>
   </element>
   
+  <element name="Darkvision" type="Racial Trait" source="Vryloka Race v5" id="ID_RACIAL_TRAIT_DARKVISION">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>Thanks to your vampiric blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.</p>
+    </description>
+    <sheet>
+      <description>Thanks to your vampiric blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.</description>
+    </sheet>
+    <rules>
+      <grant type="Vision" name="ID_VISION_DARKVISION" />
+    </rules>
+  </element>
+  
   <element name="Undead Resistance" type="Racial Trait" source="Vryloka Race v5" id="ID_RACIAL_TRAIT_UNDEAD_RESISTANCE">
     <supports></supports>
     <requirements />
@@ -86,7 +100,6 @@
       <description>You have resistance to necrotic damage.</description>
     </sheet>
     <rules>
-      <grant type="Resistance" name="ID_RESISTANCE_NECROTIC" />
     </rules>
   </element>
   
@@ -167,7 +180,7 @@
       <stat name="Strength" value="+1"/>
     </rules>
   </element>
-  <element name="Ability Score Increase (Dexterity)" type="Racial Trait" source="Player’s Handbook" id="ID_RACE_VARIANT_VRYLOKA_DEXTERITY">
+  <element name="Ability Score Increase (Dexterity)" type="Racial Trait" source="Vryloka Race v5" id="ID_RACE_VARIANT_VRYLOKA_DEXTERITY">
     <supports>Vryloka</supports>
     <requirements />
     <description>
