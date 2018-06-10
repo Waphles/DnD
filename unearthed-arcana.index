@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Unearthed Arcana</name>
+		<description>The content from Unearthed Arcana.</description>
+		<author url=""></author>
+		<update version="0.0.1">
+			<file name="unearthed-arcana.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/unearthed-arcana.index" />
+		</update>
+	</info>
+	<files>
+		<file name="feats.index" url="https://raw.githubusercontent.com//Waphles/DnD/master/Unearthed-Arcana/feats.index" />
+		<file name="fighting-styles.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/fighting-styles.index" />
+	</files>
+</index>
