@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Unearthed Arcana - Feats</name>
+		<description>Feats from Unearthed Arcana.</description>
+		<author url=""></author>
+		<update version="0.0.1">
+			<file name="feats.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/feats.index" />
+		</update>
+	</info>
+	<files>
+		<file name="fell-handed.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/Feats/fell-handed.xml" />
+	</files>
+</index>
