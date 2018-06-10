@@ -9,7 +9,7 @@
 		</update>
 	</info>
 	<files>
-		<file name="Equipment.index" url="https://raw.githubusercontent.com//Waphles/DnD/Homebrew/master/Equipment.index" />
-		<file name="Races.index" url="https://raw.githubusercontent.com/Waphles/DnD/Homebrew/master/Races.index" />
+		<file name="equipment.index" url="https://raw.githubusercontent.com//Waphles/DnD/Homebrew/master/equipment.index" />
+		<file name="races.index" url="https://raw.githubusercontent.com/Waphles/DnD/Homebrew/master/races.index" />
 	</files>
 </index>
