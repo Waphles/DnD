@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+  <info>
+    <name>Vryloka</name>
+    <description>
+      Appearing as human nobles to the world at large, Vrylokas are in fact powerful living vampires, the result of a bloodbond ritual with a powerful god of death. They easily rise to power and navigate among the social and political elite, all the while keeping the origins of their dark powers secret.
+    </description>
+    <author url="https://imgur.com/a/bpKEv#LidsfDc">Vryloka Race v5</author>
+    <update version="0.0.1">
+      <file name="vryloka.xml" url="https://raw.githubusercontent.com/Waphles/DnD/Homebrew/Races/vryloka.xml" />
+    </update>
+  </info>
+  <element name="Vryloka" type="Race" source="Vryloka Race v5" id=RACE_VRYLOKA">
+    <supports />
+    <description>
+      <p class="flavor">Uncounted centuries ago, the noble families of a nowforgotten kingdom sought a way to increase their life span beyond the meagre years allotted to them by their human heritage. They were approached by a mysterious entity known only as the Red Witch—a scarlet-clad figure who offered to them a blond-bonding ritual with a dark lord that would grant them the vitality of vampires without subjecting them to the taint of undeath. In later centuries, these creatures became known by the name of the first noble family to forge the pact: the Vrylokas.</p>
+      
+      <h4>PALE HUNTERS</h4>
+      <p>Vrylokas were originally human, though the bloodbond ritual subtly changes their appearance. They have dark grey or blue eyes which may turn red when angered or excited. Their skin is pale, and their hair comes mostly in shades of red, from deep scarlet to strawberry blond. Some rare individuals may be found with jet-black hair. They have upper canine teeth that sometimes appear slightly more pronounced than the human norm, however unlike true vampires, vrylokas have no fangs.</p>
+      <p>Vrylokas favour clothing that reflects their ancient origin, from layered robes and tall head-dresses to long jackets and trousers, or bodices and skirts. Their garb is often embroidered with bloodred roses and thorns— symbols of the Red Witch. They favour red with accents of brass and black. Their weapons and armour are uniformly ornate and flamboyant, with spikes and flourishes of rose motifs and rubies.</p>
+      
+      <h4>PASSIONATE LOYALTY</h4>
+      <p>Vrylokas are passionate creatures, equally capable of blissful love and seething rage. Both grudges and affections of a vryloka last centuries, sometimes passing from generation to generation. The intensity of their passion often leads to feelings of ennui and unrest. Their once-human minds appreciate the advance of years more than more naturally long-lived species, and so vrylokas spend their time searching for ways to entertain themselves. Some turn to intellectual endeavours, becoming renowned artists and scholars. Others seek gratification by pushing themselves to their physical limits through military service or adventuring. Most turn their distaste for world-weariness against each other, engaging in elaborate power games in which the common races are treated as possessions and pawns.</p>
+      <p>These conflicts are strengthened by the vrylokas’ dedication to keeping their bloodlines sacred. A vryloka’s duty is to their family first, and even as rivalries tear competing families apart, there is no room for doubt or betrayal with regard to lineage.</p>
+      <p>Like all emotions, loyalty is all-consuming to a vryloka. In some rare cases, a vryloka may develop this same degree of loyalty to outsiders—most often fellow adventurers with whom he or she has fallen in. Initially, such characters typically ensure that their outside loyalties do not impact their dedication to their kin. However, many vryloka adventurers eventually find themselves forced to make a choice between the bonds of friendship and those of family. Vrylokas universally pay fealty to the Red Witch, and the dark lord through whom they got their power. Few adopt the faith of another deity.</p>
+      
+      <h4>VRYLOKA NAMES</h4>
+      <p>Vrylokan families are often ancient and noble, and their names reflect this. Vrylokas have a strong sense of duty to their family, and they tend to choose names that befit this noble heritage. More recently created vrylokas may use names from their culture of origin, or take on new names from the high families of vrylokas.</p>
+      <p>
+        <span class="feature">Male Names:</span>Aurel, Bogdan, Claudiu, Grigore, Mircea, Stelian<br />
+        <span class="feature">Famale Names:</span>Adela, Crina, Elzeny, Iulia, Mirela, Sanda<br />
+        <span class="feature">Family Names:</span>Dorgumir, Gavril, Ghenadie, Ionel, Loredana, Vasili<br />
+      </p>
+      
+      <h4>VRYLOKA TRAITS</h4>
+      <p>The bloodbond ritual grants you great power beyond that of an ordinary human.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Charisma score increases by 2, and you may increase either your Strength or Dexterity score by 1.<br />
+        <span class="feature">Age</span>Natural-born vrylokas age a little slower than humans, reaching maturity in their late 20s, at which point they cease to visibly age. First-generation vrylokas remain the age they were when they went through the bloodbond ritual. Vrylokas live for many centuries.<br />
+        <span class="feature">Alignment</span>A vryloka’s vampiric nature means they are pulled towards lawful evil, believing strongly in order and structure. However, many vrylokas attempt to struggle against their innate evil nature.<br />
+        <span class="feature">Size</span>Vrylokas are about the same size and build as humans. Your size is Medium.<br />
+        <span class="feature">Speed</span>Your base walking speed is 35 feet.<br />
+        <span class="feature">Darkvision</span>Thanks to your vampiric blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.<br />
+        <span class="feature">Undead Resistance</span>You have resistance to necrotic damage.<br />
+        <span class="feature">Stealthy Hunter</span>You have proficiency in the Stealth skill.<br />
+        <span class="feature">Blood Dependency</span>You have a pool of 2 blood points. Every time you complete a long rest, or a day passes without you completing a long rest, you expend one point from your pool. If you feed on the blood of a humanoid, taking approximately 200 mL, you regain 2 blood points. While you have 0 blood points, you gain half as much from all healing. This pool is combined with any other features that grant you a blood pool.<br />
+        <span class="feature">Living Dead</span>Because your soul is tainted by undeath, you are both living and undead. If a feature has different effects on living creatures and undead ones, you choose which effect applies to you. Additionally, you may take any vampiric prestige classes without needing to meet prerequisites other than being level 2, and any stat requirements.<br />
+        <span class="feature">Human Heritage</span>You have Advantage on any Deception checks made to pass as human.<br />
+        <span class="feature">Lifeblood</span>When you successfully grapple or kill a humanoid within 5 ft. of you, you may drink of the enemy’s blood as a bonus action, granting you a surge of vitality. You gain temporary hitpoints equal to your Constitution modifier + your level (minimum of 1), and gain advantage on strength-based attack rolls, skill checks, and saving throws until the end of your next turn. You regain 2 blood points. Once you use this feature, you must finish a short or long rest before you can use it again.<br />
+        <span class="feature">Languages</span>You can speak, read and write Common and one extra language of your choice.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <setters>
+      <set name="names" type="male">
+      <set name="names" type="female">
+      <set name="names" type="family">
+      <set name="names-format">$(name) $(family)</set>
+      <set name="height" modifier="2d10">4'6"</set>
+      <set name="weight" modifier="1d4">90 lb.</set>
+    </setters>
+    <rules>
+      <stat name="Charisma" value="+2" />
+      <select type="Racial Trait" name="Ability Score Increase (Vryloka)" supports="Vryloka" number="1" />
+      <stat name="Speed" value="+35" />
+      <grant type="Size" name="ID_SIZE_MEDIUM" />
+      <grant type="Language" name ="ID_LANGUAGE_COMMON" />
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_DARKVISION" />
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_UNDEAD_RESISTANCE" />
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_STEALTHY_HUNTER" />
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_BLOOD_DEPENDENCY" />
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_LIVING_DEAD" />
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_HUMAN_HERITAGE" />
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_LIFEBLOOD" />
+      
+    </rules>
+  </element>
+  
+  <element name="Undead Resistance" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_UNDEAD_RESISTANCE">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>You have resistance to necrotic damage.</p>
+    </description>
+    <sheet>
+      <description>You have resistance to necrotic damage.</description>
+    </sheet>
+    <rules>
+      <grant type="Resistance" name="ID_RESISTANCE_NECROTIC" />
+    </rules>
+  </element>
+  
+  <element name="Stealthy Hunter" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_STEALTHY_HUNTER">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>You have proficiency in the Stealth skill.</p>
+    </description>
+    <sheet>
+      <description>You have proficiency in the Stealth skill.</description>
+    </sheet>
+    <rules>
+      <grant type="Proficiency" name="ID_PROFICIENCY_SKILL_STEALTH" />
+    </rules>
+  </element>
+  
+  <element name="Blood Dependency" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_BLOOD_DEPENDENCY">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>You have a pool of 2 blood points. Every time you complete a long rest, or a day passes without you completing a long rest, you expend one point from your pool. If you feed on the blood of a humanoid, taking approximately 200 mL, you regain 2 blood points. While you have 0 blood points, you gain half as much from all healing. This pool is combined with any other features that grant you a blood pool.</p>
+    </description>
+    <sheet>
+      <description>You have a pool of 2 blood points. Every time you complete a long rest, or a day passes without you completing a long rest, you expend one point from your pool. If you feed on the blood of a humanoid, taking approximately 200 mL, you regain 2 blood points. While you have 0 blood points, you gain half as much from all healing. This pool is combined with any other features that grant you a blood pool.</description>
+    </sheet>
+    <rules>
+    </rules>
+  </element>
+  
+  <element name="Living Dead" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_LIVING_DEAD">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>Because your soul is tainted by undeath, you are both living and undead. If a feature has different effects on living creatures and undead ones, you choose which effect applies to you. Additionally, you may take any vampiric prestige classes without needing to meet prerequisites other than being level 2, and any stat requirements.</p>
+    </description>
+    <sheet>
+      <description>Because your soul is tainted by undeath, you are both living and undead. If a feature has different effects on living creatures and undead ones, you choose which effect applies to you. Additionally, you may take any vampiric prestige classes without needing to meet prerequisites other than being level 2, and any stat requirements.</description>
+    </sheet>
+    <rules>
+    </rules>
+  </element>
+  
+  <element name="Human Heritage" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_HUMAN_HERITAGE">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>You have advantage on any deception checks made to pass as a human.</p>
+    </description>
+    <sheet>
+      <description>You have advantage on any deception checks made to pass as a human.</description>
+    </sheet>
+    <rules>
+    </rules>
+  </element>
+  
+  <element name="Lifeblood" type="Racial Trait" source="Vryloka Race v5" id=ID_RACIAL_TRAIT_LIFEBLOOD">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>When you successfully grapple or kill a humanoid within 5 ft. of you, you may drink of the enemy’s blood as a bonus action, granting you a surge of vitality. You gain temporary hitpoints equal to your Constitution modifier + your level (minimum of 1), and gain advantage on strength-based attack rolls, skill checks, and saving throws until the end of your next turn. You regain 2 blood points. Once you use this feature, you must finish a short or long rest before you can use it again.</p>
+    </description>
+    <sheet>
+      <description>When you successfully grapple or kill a humanoid within 5 ft. of you, you may drink of the enemy’s blood as a bonus action, granting you a surge of vitality. You gain temporary hitpoints equal to your Constitution modifier + your level (minimum of 1), and gain advantage on strength-based attack rolls, skill checks, and saving throws until the end of your next turn. You regain 2 blood points. Once you use this feature, you must finish a short or long rest before you can use it again.</description>
+    </sheet>
+    <rules>
+    </rules>
+  </element>
+  
+  <element name="Ability Score Increase (Strength)" type="Racial Trait" source="Vryloka Race v5" id="ID_RACE_VARIANT_VRYLOKA_STRENGTH">
+    <supports>Vryloka</supports>
+    <requirements />
+    <description>
+      <p>Your Strength increases by 1.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="Strength" value="+1"/>
+    </rules>
+  </element>
+  <element name="Ability Score Increase (Dexterity)" type="Racial Trait" source="Player’s Handbook" id="ID_RACE_VARIANT_VRYLOKA_DEXTERITY">
+    <supports>Vryloka</supports>
+    <requirements />
+    <description>
+      <p>Your Dexterity increases by 1.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="Dexterity" value="+1"/>
+    </rules>
+</element>
+      
