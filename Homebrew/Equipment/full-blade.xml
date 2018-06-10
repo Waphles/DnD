@@ -1,7 +1,9 @@
 	<element name="Full Blade" type="Item" source="5e Wiki" id="ID_HOMEBREW_ITEM_FULL_BLADE">
-	  <supports></supports>
+	  <supports>ID_INTERNAL_WEAPON_PROPERTY_MELEE, ID_INTERNAL_WEAPON_PROPERTY_MARTIAL, ID_INTERNAL_WEAPON_PROPERTY_SLASHING, </supports>
 	  <description>
-	    <p>An oversized greatsword, when weilded by a Large creature it is a Heavy, Two-Handed weapon that deals 2d8 damage. When wielded by a Medium creature, it is a Heavy, Two Handed weapon that does 2d8 damage and imposes Disadvantage on attack rolls.</p>
+		<p>An oversized greatsword, only the strongest will be able to wield this mighty blade.
+				<p>When wielded by a Medium creature, it is a Heavy, Two Handed weapon that does 2d8 damage and imposes Disadvantage on attack rolls.</p>
+				<p>When weilded by a Large creature it is a Heavy, Two-Handed weapon that deals 2d8 damage.</p>
 	  </description>
 	  <setters>
 	    <set name="category">Full Blade</set>
