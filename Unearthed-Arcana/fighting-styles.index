@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Unearthed Arcana - Fighting Styles</name>
+		<description>Fighting Styles from Unearthed Arcana.</description>
+		<author url=""></author>
+		<update version="0.0.1">
+			<file name="fighting-styles.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/fighting-styles.index" />
+		</update>
+	</info>
+	<files>
+		<file name="tunnel-fighter.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/Feats/tunnel-fighter.xml" />
+	</files>
+</index>
