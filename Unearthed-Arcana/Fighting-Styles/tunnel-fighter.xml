@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<element name>
+  <info>
+    <name>Fighting Style - Tunnel Fighter</name>
+    <description>A Fighter Fighting Style introduced in Unearthed Arcana</description>
+    <author url="https://old.reddit.com/r/UnearthedArcana/comments/5twz0b/codex_unearthed_arcana/">Reddit</author>
+    <update version="0.0.1">
+      <file name="tunnel-fighter.xml" url="https://raw.githubusercontent.com/Waphles/DnD/Unearthed-Arcana/Fighting-Styles/tunnel-fighter.xml" />
+    </update>
+  </info>
+  
+  <element name="Tunnel Fighter" type="Class Feature" source="Unearthed Arcana" id="ID_UNEARTHED_ARCANA_CLASS_FEATURE_FIGHTINGSTYLE_TUNNEL_FIGHTER">
+    <supports>Fighting Style, Fighter, Ranger, Vampire</supports>
+    <description>
+      <p>You excel at defending narrow passages, doorways, and other tight spaces.</p>
+    </description>
+    <sheet>
+      As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
+    </sheet>
+  </element>
+</elements>
