@@ -177,5 +177,7 @@
     <rules>
       <stat name="Dexterity" value="+1"/>
     </rules>
-</element>
+  </element>
+  
+</elements>
       
