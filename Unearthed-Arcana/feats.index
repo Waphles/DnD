@@ -9,6 +9,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="fell-handed.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/Feats/fell-handed.xml" />
+		<file name="weapon-mastery-feats.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/Feats/weapon-mastery-feats.xml" />
 	</files>
 </index>
