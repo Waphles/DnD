@@ -9,7 +9,7 @@
 		</update>
 	</info>
 	<files>
-		<file name="feats.index" url="https://raw.githubusercontent.com//Waphles/DnD/master/Unearthed-Arcana/feats.index" />
+		<file name="feats.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/feats.index" />
 		<file name="fighting-styles.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/fighting-styles.index" />
 	</files>
 </index>
