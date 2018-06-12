@@ -5,7 +5,7 @@
         <description>Weapon Mastery Feats from 5e Unearthed Arcana</description>
         <author url="https://old.reddit.com/r/UnearthedArcana/comments/5twz0b/codex_unearthed_arcana/">Reddit</author>
         <update version="0.1">
-            <file name="weapon-mastery-feats.xml" url="https://raw.githubusercontent.com/Waphles/DnD/Unearthed-Arcana/Feats/master/weapon-mastery-feats.xml" />
+            <file name="weapon-mastery-feats.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/Feats/weapon-mastery-feats.xml" />
         </update>
     </info>
     
