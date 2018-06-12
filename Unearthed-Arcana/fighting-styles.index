@@ -9,6 +9,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="tunnel-fighter.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/Feats/tunnel-fighter.xml" />
+		<file name="tunnel-fighter.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Unearthed-Arcana/Feats/tunnel-fighter.xml" />
 	</files>
 </index>
