@@ -56,4 +56,26 @@
           <select type="Ability Score Improvement" name="Second Skin" supports="ID_PHB_FEAT_ASI_STRENGTH|ID_PHB_FEAT_ASI_DEXTERITY" />
         </rules>
     </element>
+    
+    <element name="Oversized Weapon Mastery" type="Feat" source="5e Homebrew" id="ID_HOMEBREW_FEAT_OVERSIZED_WEAPON_MASTERY">
+        <supports />
+        <prerequisite></prerequisite>
+        <requirements></requirements>
+        <description>
+            <p><i></i></p>
+            <p>You've hardened your grip and learned the way to heft and balance typically unwieldy weapons and equipment easily. You gain the following benefits:</p>
+            <ul>
+                <li>You may wield a two-handed melee weapon in one hand, or may use a versatile weapon in one hand and use its two handed weapon die for damage. You may only wield one such weapon this way at a time. If you are a race with the Small size, replace the ability to wield a two-handed melee weapon in one hand with the following benefit instead: You ignore the Heavy property of weapons.</li>
+                <li>When you throw a weapon as an improvised thrown weapon attack, the damage dealt on a hit is equal to the weapon damage dice of the weapon.</li>
+            </ul>
+        </description>
+        <setters>
+            <set name="sourceUrl">http://www.wargamevault.com/product/174073/13-Feats--Feat-Fixes-5e</set>
+        </setters>
+        <sheet>
+            <description>You've hardened your grip and learned the way to heft and balance typically unwieldy weapons and equipment easily.</description>
+        </sheet>
+        <rules>
+        </rules>
+    </element>
 </elements>
