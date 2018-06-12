@@ -56,7 +56,7 @@
         </rules>
     </element>
     
-        <element name="Flail Mastery" type="Feat" source="Unearthed Arcana" id="ID_UA_FEAT_FLAIL_MASTERY">
+      <element name="Flail Mastery" type="Feat" source="Unearthed Arcana" id="ID_UA_FEAT_FLAIL_MASTERY">
         <supports />
         <prerequisite></prerequisite>
         <requirements></requirements>
@@ -79,7 +79,7 @@
         </rules>
     </element>
     
-        <element name="Spear Mastery" type="Feat" source="Unearthed Arcana" id="ID_UA_FEAT_SPEAR_MASTERY">
+      <element name="Spear Mastery" type="Feat" source="Unearthed Arcana" id="ID_UA_FEAT_SPEAR_MASTERY">
         <supports />
         <prerequisite></prerequisite>
         <requirements></requirements>
