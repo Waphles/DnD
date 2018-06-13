@@ -5,7 +5,7 @@
     <description>The Vampire homebrew class from Dungeon Master's Guild</description>
     <author url="http://www.dmsguild.com/product/176056/Vampire-Class">Dungeon Master's Guild - Jessica Deuel</author>
     <update version="0.1.0">
-      <file name="vampire.xml" url="https://github.com/Waphles/DnD/tree/master/Homebrew/Classes/vampire.xml" />
+      <file name="vampire.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/Classes/vampire.xml" />
     </update>
   </info>
   
