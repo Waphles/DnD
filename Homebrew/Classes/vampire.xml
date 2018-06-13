@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+  <info>
+    <name>Vampire</name>
+    <description>The Vampire homebrew class from Dungeon Master's Guild</description>
+    <author url="http://www.dmsguild.com/product/176056/Vampire-Class">Dungeon Master's Guild - Jessica Deuel</author>
+    <update version="0.1.0">
+      <file name="vampire.xml" url="https://github.com/Waphles/DnD/tree/master/Homebrew/Classes/vampire.xml" />
+    </update>
+  </info>
+  
+  <element name="Vampire" type="Class" source="Homebrew" id="ID_HOMEBREW_VAMPIRE">
+    <supports />
+    <requirements />
+    <description>
+      <p>A handsome nobleman with angular features commands his three brides to attack a young man. The man stands paralyzed with fear as the three vampire women surround him and begin to eviscerate him with their sharp claws. By the time he realizes what is happening, it is too late to stop them and he collapses into a bloody heap on the ground as his life force leaves his body.</p>
+      <p>A vampire woman stares at the blood dripping from the hand of the criminal who just killed one of the guards working in her tavern. Unable to resist, she leaps onto his back and sinks her teeth into his neck as he frantically tries to shake her off. When the criminal’s partner finally manages to break her hold on him, the criminal falls to the ground and speaks one final expletive before he dies.</p>
+      <p>An older vampire pursues a young man through the alleys of a city. Fearing for his life, the young man runs and tries to escape until he finds himself at a dead end. The vampire knows the struggles of this young man. He knows what it’s like to be different and can give this young man the power he needs. As the vampire reaches his hand out, the young man with a fearful yet hopeful look on his face takes his hand in what would become the last moments of his mortal existence.</p>
+      <p>Vampires are undead creatures of both predation and temptation. They are the enemy within and dealers of Faustian bargains. One moment of physical or spiritual weakness and a person can be cursed to an undead existence for all eternity. Vampires feed on the blood of the living in order to sustain themselves and maintain their supernatural powers. Not all vampires are villains, but all of them have to fight against their urge to feast on the living.</p>
+      <h4>SUPERNATURAL KILLING MACHINES</h4>
+      <p></p>
+      <h4>ETERNAL HUNGER</h4>
+      <h4>CREATING A VAMPIRE</h4>
+      <h4>QUICK BUILD</h4>
+      <h4>CLASS FEATURES</h4>
+      <p>As a vampire, you gain the following class features.</p>
+      <h5>HIT POINTS</h5>
+      <p>
+        <span class="emphasis">Hit Dice:</span> special (see the Blood is Life class feature)
+        <br />
+        <span class="emphasis">Hit Points at 1st Level:</span> 8 + your Constitution modifier
+        <br />
+        <span class="emphasis">Hit Points at Higher Levels:</span> 1d8 (or 5) + your Constitution modifier per vampire level after 1st
+      </p>
+      <h5>PROFICIENCIES</h5>
+      <p>Armor: None</p>
+      <p>Weapons: Simple Weapons</p>
+      <p>Tools: None</p>
+      <p>Saving Throws: Dexterity, Charisma</p>
+      <p>Skills: Choose two skills from Acrobatics, Arcana, Athletics, Deception, History, Intimidation, Investigation, Perception, Persuasion, Religion and Stealth.</p>
+    </description>
+    <setters>
+      <set name="hd">d8</set>
+    </setters>
+    <rules>
+      <grant type="Proficiency" name="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" requirements="!ID_HOMEBREW_MULTICLASS_VAMPIRE"/>
+      <grant type="Proficiency" name="ID_PROFICIENCY_SAVINGTHROW_DEXTERITY" requirements="!ID_HOMEBREW_MULTICLASS_VAMPIRE"/>
+      <grant type="Proficiency" name="ID_PROFICIENCY_SAVINGTHROW_CHARISMA" requirements="!ID_HOMEBREW_MULTICLASS_VAMPIRE"/>
+    </rules>
+  </element>
+</elements>
+    
+      
