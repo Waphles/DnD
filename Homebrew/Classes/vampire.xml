@@ -629,6 +629,20 @@
       <grant type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_CUNNING_ACTION"/>
     </rules>
   </element>
+
+  <element name="BLOOD DRINKER" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY_BLOOD_DRINKER">
+    <supports>Legacy, Vampire</supports>
+    <description>
+      <p>When you regain hit points as a result of making a bite attack, you regain an amount equal to the amount of damage you dealt with the bite attack instead of half.</p>
+    </description>
+    <sheet>
+      <description>
+        <p>When you regain hit points as a result of making a bite attack, you regain an amount equal to the amount of damage you dealt with the bite attack instead of half.</p>
+      </description>
+    </sheet>
+    <rules>
+    </rules>
+</element>
   
   <element name="" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY_">
     <supports>Legacy, Vampire</supports>
