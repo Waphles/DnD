@@ -17,13 +17,25 @@
       <p>A vampire woman stares at the blood dripping from the hand of the criminal who just killed one of the guards working in her tavern. Unable to resist, she leaps onto his back and sinks her teeth into his neck as he frantically tries to shake her off. When the criminal’s partner finally manages to break her hold on him, the criminal falls to the ground and speaks one final expletive before he dies.</p>
       <p>An older vampire pursues a young man through the alleys of a city. Fearing for his life, the young man runs and tries to escape until he finds himself at a dead end. The vampire knows the struggles of this young man. He knows what it’s like to be different and can give this young man the power he needs. As the vampire reaches his hand out, the young man with a fearful yet hopeful look on his face takes his hand in what would become the last moments of his mortal existence.</p>
       <p>Vampires are undead creatures of both predation and temptation. They are the enemy within and dealers of Faustian bargains. One moment of physical or spiritual weakness and a person can be cursed to an undead existence for all eternity. Vampires feed on the blood of the living in order to sustain themselves and maintain their supernatural powers. Not all vampires are villains, but all of them have to fight against their urge to feast on the living.</p>
+      
       <h4>SUPERNATURAL KILLING MACHINES</h4>
-      <p></p>
+      <p>A vampire gains their powers from their undead state and the blood that runs in their veins. This bloodline is gained from the vampire who created them and grants supernatural powers shared by many of their undead ancestors. As a vampire grows older and more experienced, new supernatural powers develop and they become even more formidable than they already were. While newly created vampires are usually completely subservient to their creator’s will, eventually the chain is loosened for the new vampire or sometimes they are even granted completely independence.</p>
+      <p>There are some features that are common across vampires as a whole. Vampires tend to quickly recover from their wounds and possess great strength and speed. They are vulnerable to holy powers and this causes them to not benefit from most forms of healing magic. Most vampires would also do well to stay out of the sun as its radiance can quickly reduce all but the most powerful vampires to ash.</p>
+      
       <h4>ETERNAL HUNGER</h4>
+      <p>Not all vampires are members of the vampire class. Many vampires spend their entire existence as a thrall to some more powerful vampire until someone comes along and drives a stake through their heart and cuts off their head. If vampires themselves are relatively rare, then vampires who have the vampire class are exceptionally rare.</p>
+      <p>Most individuals who are members of the vampire class were adventurers even before they were cursed with undeath. These heroes, whose lives were cut so short, still often continue their tasks even in death. Even for those who weren't adventurers before becoming undead, adventuring provides a way for a vampire to feed on new victims (who often won't be missed), acquire power and have a reason to be gone from civilization for extended periods of time.</p>
+      
       <h4>CREATING A VAMPIRE</h4>
-      <h4>QUICK BUILD</h4>
+      <p>The first thing you should consider when making a vampire is the nature of your bloodline. However, you'll generally have no choice on this matter if you acquire the vampire class after character creation (see the multiclass section) below.</p>
+      <p>Once you've "chosen" your bloodline or had your bloodline chosen for you, the next thing to consider is how your character became a vampire. Was this something your character sought willingly? Or were you an unfortunate victim who is now dealing with the aftermath of a vampire attack? How do you feel about no longer being among the living? Do you try to restrict your victims to only evil people? Or do you feed without restriction? Does the thought sicken you and cause to avoid feeding for as long as possible?</p>
+      
+      <h5>QUICK BUILD</h5>
+      <p>You can make a vampire quickly by following these suggestions. First, Dexterity should be your highest ability score, followed by Charisma. Second, choose the Scion background.</p>
+      
       <h4>CLASS FEATURES</h4>
       <p>As a vampire, you gain the following class features.</p>
+      
       <h5>HIT POINTS</h5>
       <p>
         <span class="emphasis">Hit Dice:</span> special (see the Blood is Life class feature)
@@ -38,7 +50,384 @@
       <p>Tools: None</p>
       <p>Saving Throws: Dexterity, Charisma</p>
       <p>Skills: Choose two skills from Acrobatics, Arcana, Athletics, Deception, History, Intimidation, Investigation, Perception, Persuasion, Religion and Stealth.</p>
+      
+      <h5>EQUIPMENT</h5>
+      <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+      <ul>
+        <li>
+          <i>(a)</i> a holy symbol
+          <i>(b)</i> arcane focus
+        </li>
+        <li>
+          <i>(a)</i> a set of fine clothes or 
+          <i>(b)</i> chain mail (if proficient)
+        </li>
+        <li>
+          <i>(a)</i> a martial weapon (if proficient) or  
+          <i>(b)</i> two simple weapons
+        </li>
+        <li>
+          <i>a</i> belt pouch containing 20 gold
+        </li>
+      </ul>
+      
+      <h4>CHILD OF THE NIGHT</h4>
+      <ul>
+        <li>
+          <i>You</i> are an undead creature. You are unaffected by anything that affects only living creatures. You don't age, require food or water, or suffer the effects of exhaustion unless it is the result of one of your class features.
+        </li>
+        <li>
+          <i>You</i> have darkvision.
+        </li>
+        <li>
+          <i>You</i> are resistant to necrotic damage.
+          <i>You</i> are vulnerable to radiant damage.
+        </li>
+        <li>
+          <i>If</i> you end your turn in direct sunlight and lack a protective covering (such as a cloak or other heavy clothing), you take 10 radiant damage (which may be doubled by your vulnerability to radiant damag). If you drop below 1 hit point from this damage, you are instantly destroyed and may only be restored to your former undead state with a true resurrection or wish spell. While you are in direct sunlight you have disadvantage on attack rolls and ability checks.
+          <i>The</i> radiant damage only applies when in direct sunlight from the actual sun and does not apply for any other form of light even in the case of spells, abilities or magic items that mimic the effect of the sun.
+        </li>
+        <li>
+          <i>You</i> may not enter a residence without an invitation from one of the occupants.
+        </li>
+        <li>
+          <i>If</i> a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated, the vampire is paralyzed until the stake is removed.
+        </li>
+        <li>
+          <i>You</i> roll a d6 for your unarmed strikes in place of the normal damage die. Your unarmed strikes count as magical for the purposes of overcoming resistances and immunity to nonmagical attacks and damage. You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes. Your unarmed strikes count as light melee weapons for the purpose of two weapon fighting. 
+        </li>        
+        <li>
+          <i>You</i> automatically pass all death saving throws. You regain 1 hit point 1d4 minutes after you stabilize.
+        </li>
+      </ul>
+
+      <h4>BLOOD IS LIFE</h4>
+      <ul>
+        <li>
+          <i>You</i> have two hit dice that are not regained from a long rest. If you have more than two hit dice at the end of a long rest then you lose enough hit dice to bring you back down to two hit dice.
+        </li>
+        <li>
+          <i>Any</i> hit dice spent for healing will heal you for half of your maximum hit points, rounded up.
+        </li>
+        <li>
+          <i>Against</i> a living creature that is either willing, charmed, grappled by you, incapacitated, or restrained you may use one of your attacks to perform a bite attack. This attack deals 1d6 damage and you may use either Strength or Dexterity for the attack and damage rolls. If the creature has any hit dice then they lose one hit dice each time they are the victim of your bite attack. If they don't have any hit dice then their hit point maximum is reduced by the amount of damage dealt by this bite attack. This hit point maximum reduction lasts until the creature takes a long rest. Each time a creature is the victim of your bite attack, you may choose to either regain a hit dice (up to a maximum of four hit dice) or you may regain hit points equal to half the damage dealt by the bite attack rounded up.
+        </li>
+        <li>
+          <i>An</i> adjacent living creature can willingly lose one hit dice and take one point of damage to grant you a hit dice.
+        </li>
+        <li>
+          <i>If</i> your Strength, Dexterity or Constitution are less than 12, then increase them to 12.
+        </li>
+        <li>
+          <i>As</i> a free action on your turn, you can spend any number of hit dice to regain a number of spell slots equal to half your proficiency bonus rounded up for each hit dice spent in this way.
+        </li>
+      </ul>
+      
+      <h4>ENDURING SOUL</h4>
+      <p>At the start of each of your turns, you regain hit points equal to your Constitution modifier (with a minimum of at least one) if you have no more than half your hit points left. You don't gain this benefit if you have 0 hit points or if you took radiant damage since your last turn.</p>
+      
+      <h4>VAMPIRIC REFLEXES</h4>
+      <p>Start at 1st level, when you aren't wearing armor or carrying a shield, your AC equals 13 + your Dexterity modifier.</p>
+      
+      <h4>VAMPIRIC BLOODLINE</h4>
+      <p>Choose a vampiric bloodline. This bloodline can be traced back to an elder vampire from long ago and determines many of the vampire's strengths. The bloodlines are Knight, Thaumaturge, Feral and Beguiler. Your choice grants you features when you choose it at 1st level and again at 20th level.</p>
+      
+      <h4>LEGACIES</h4>
+      <p>Starting at 2nd level, and every even numbered level afterwards (e.g. 2, 4, 6, 8, etc), you may select one legacy that you meet the prerequisites for at the end of this section. Some of the legacies you may be able to select multiple times. At 2nd level, you gain the Blood Magic (Level 1) legacy for free.</p>
+      
+      <h4>SPELLCASTING</h4>
+      <p>When you reach 3rd level, the powers latent in your blood begin to manifest themselves. See chapter 10 of the Player's Handbook for the general rules of spellcasting and later on in this article for the vampire spell list.</p>
+      
+      <h5>SPELL SLOTS</h5>
+      <p>The Vampire Spellcasting table shows how many spell slots you have to cast your spells of 1st level or higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. Unlike other spellcasting classes, you have to gain the necessary legacy that will allow you to cast a given level of spells before you will have access to those spell slots.</p>
+      
+      <h5>SPELL SLOTS KNOWN OF 1ST LEVEL AND HIGHER</h5>
+      <p>You know three 1st level vampire spells of your choice. The Spells Known column of the Vampire Spellcasting table shows when you learn more vampire spells of 1st level or higher. You must have gained the necessary prerequisite legacy for a given level of spells in order to know spells of that level. Whenever you gain a level in this class, you can replace one of the vampire spells you know with another spell of your choice from the vampire spell list. The new spells must be of a level for which you have spell slots.</p>
+      
+      <h4>SPELLCASTING ABILITY</h4>
+      <p>Charisma is your spellcasting ability for your vampire spells, since your spells are a manifestation of your will and the blood that runs through your veins. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a vampire spell you cast and when making an attack roll with one.</p>
+      <p>
+        <span class="emphasis">Spell save DC =</span> 8 + your proficiency bonus + your Charisma modifier
+        <br />
+        <span class="emphasis">Spell attack modifier</span> your proficiency bonus + your Charisma modifier
+      </p>
+      
+      <h5>SPELLCASTING FOCUS</h5>
+      <p>You can use either an arcane focus or a holy symbol to cast vampire spells.</p>
+      
+      <h4>EXTRA ATTACK</h4>
+      <p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action.</p>
+      
+      <h4>SHARED BLOOD</h4>
+      <p>Starting at 6th level you may use your action to willingly lose one hit dice, suffer one level of exhaustion, an dtake one point of damage to transfer some of your vitality to a willing or unconscious humanoid creature. If that creature has died within the last minute, that creature returns with 1 hit point. Otherwise that creature regains one hit point, gains temporary hit point equal to your maximum hit point total, and gains advantage on all saving throws to end conditions on them for one turn. That creature must make a Constitution save against your spell DC at the start of every single one of their turns or permanently gain the Child of the Night, Blood is Life and Enduring Soul abilities and gain proficiency in unarmed strikes. This effect can only be reversed by a Wish spell. This creature may also come under your control (see Vampire thrall below).</p>
+      <p>If the target of your Shared Blood gains any levels in vampire, they must select the same bloodline as you.</p>
+      
+      <h4>VAMPIRE THRALL</h4>
+      <p>Starting at 6th level, a creature that is affected by your Shared Blood ability may become your thrall. At the start of every single one of their turns, the creature must make a Wisdom save against your spell save DC or become your thrall. Even if they pass their saving throw that still can't perform any hostile against against you. This feature counts as a charm effect can be delayed by spells like Protection from Evil and Good, however immunities will not stop someone from becoming a thrall, but will delay it as long as they have that immunity. Nothing short of a Wish spell, you willingly choosing to end the effect, or your death, will stop them from becoming your thrall. It is entirely possible for a creature to fail the Wisdom save to resist becoming your thrall while passing their save to delay turning into a vampire (i.e. gaining the vampire class features from Shared Blood) therefore temporarily gaining the enthralled living creature while it's still in the transition from living to undead.</p>
+      <p>You may only control a single thrall at a time and that thrall must have hit points less than your own maximum hit point total. You may free a thrall from service permanently as a bonus action. If you can't gain a new thrall without exceeding the number of thralls or maximum hit points limit, then the newly created vampire doesn't become your thrall but still remains charmed by you for 24 hours until you use this ability again. Until the charm effect wears off and if you free previous thrall(s) from service you can make the new vampire your thrall as a bonus action.</p>
+      <p>While the vampire is your thrall and while within 30 feet of you, you can have them use your proficiency bonus in place of their own and they gain a number of temporary hit points at the start of your turn equal to your proficiency bonus.</p>
+      <p>The thrall obeys your commands as best as it can. It takes its turn on your initiative. On your turn as a bonus action, you can mentally command your thrall where to move and to take the Attack (one attack only), Cast a Spell (if available), Dash, Disengage, Dodge or Help action or to continue concentrating on a spell. If you don't give any commands to your thrall (or if you command them to continue concentrating on a spell) then they will act instinctively. If there are any enemies in your thrall's melee reach then they will attack an enemy with their unarmed strike (prioritizing injured targets, otherwise determined at random).</p>
+      <p>Otherwise they will attempt to return to a spot adjacent to you as soon as possible if they can safely do so by the safest route possible. While acting instinctively, your thrall has a move and an action, but they have no bonus action as long as they are your thrall. If you don't command your thrall to continue maintaining concentration on a spell they cast in a previous round then they will stop concentrating on that spell at the end of your turn.</p>
+      <p>You cannot maintain concentration on spells on a turn where you commanded your thrall. If you command your thrall to cast a spell then you can't cast a spell during the same turn except for a cantrip with a casting time of 1 action. You cannot command your thrall to cast a spell you yourself do not know.</p>
+      
+      <h4>STRENGTH OF BLOOD</h4>
+      <p>Whenever you reach 7th level, and again at 11th, 14th and 17th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. If you are using the optional rules for feats, then you may instead take a feat of your choice instead of raising your ability scores. In addition, at 11 level after you either increase your ability score(s) or take a feat, your Strength, Dexterity and Constitution increase to 14 if they are below 14. At 14th level , after you either increase your ability score(s) or take a feat, your Strength, Dexterity and Constitution increase to 16 if they are below 16. At 17h level , after you either increase your ability score(s) or take a feat, your Strength, Dexterity and Constitution increase to 18 if they are below 18.</p>
+      
+      <h4>SHAPECHANGER</h4>
+      <p>Starting at 9th level, you can use your action to transform into a tiny-sized bat or a cloud of mist. You can use this feature twice. You regain expended uses when you finish a short or long rest. You can stay transformed for a number of hours equal to half your vampire level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.</p>
+      <p>While in bat form, you can't speak, your walking speed is 5 feet, and you have a flying speed of 30 feet. Your statistics other than the size and speed, are unchanged. Anything you are wearing or carrying transforms with you.</p>
+      <p>While in mist form, you can't take any actions, speak or manipulate objects. You are weightless, having a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, you can do so without squeezing, and you can't pass through water. You advantage on Strength, Dexterity and Constitution saving throws and are immune to all nonmagical damage except damage from sunlight.</p>
+      
+      <h4>HYPNOTIZING GAZE</h4>
+      <p>Starting at 12th level, you can target one humanoid you can see within 30 feet of you. If the target can see you, the target must succeed on a Wisdom saving throw equal to your spell save DC or be charmed by you. The charmed target regards you as a trusted friend to be heeded and protected. Although the target isn't under your control, it takes your requests or actions in the most favorable way it can, and it is a willing target for your bite attack.</p>
+      <p>Each time you or your companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours, until you end the effect as a bonus action, or until you use this feature again.</p>
+      <p>Once you use this feature, you must take a short rest or a long rest before using it again.</p>
+      
+      <h4>CHILDREN OF THE NIGHT</h4>
+      <p>Starting at level 15, you can call 2d4 swarms of bats or rats, provided that the sun isn't up, requiring no action. While outdoors, you can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as your allies and obeying your spoken commands. The beasts remain for 1 hour or until you dismiss them as a bonus action.</p>
+      <p>Once you use this feature, you must take a long rest before using it again.</p>
+      
+      <h4>ELDER VAMPIRE</h4>
+      <p>The maximum amount of hit dice you may have at any one time is increased from 4 to 8. At the end of a long rest, you are reduced to 4 hit dice if you are above that amount instead of the 2 hit dice that you were reduced to previously.</p>
+      
+      <h3>VAMPIRIC BLOODLINES</h3>
+      <p>Your bloodline grants you immense power based on your bloodline's primogenitor. Although there are other bloodlines not covered here, the major bloodlines are Knight, Thaumaturge, Feral and Beguiler.</p>
+      
+      <h4>KNIGHT BLOODLINE</h4>
+      <p>The primogenitor of your line was a great warrior who faced foes in honorable combat. Vampires of this bloodline often create new thralls from honorable warriors they have defeated.</p>
+      
+      <h5>BONUS PROFICIENCY</h5>
+      <p>When you choose this bloodline at 1st level, you gain proficiency with medium armor, heavy armor, shields and martial weapons.</p>
+      
+      <h5>IMMORTAL KNIGHT</h5>
+      <p>Starting at 20th level, you may cast the spell Compelled Duel at will without it being prepared and without using a spell slot. If drop the target to 0 hit points with a melee attack before this spell ends and you are adjacent to the target creature then you can use your Shared Blood class feature on the target as part of the same action that reduced them to 0 hit points.</p>
+      
+      <h4>THAUMATURGE BLOODLINE</h4>
+      <p>The primogenitor of your line was a powerful spellcaster who used their prolonged life to delve into arcane secrets. Vampires of this bloodline often create new thralls from students of the arcane arts who show great promise.</p>
+      
+      <h5>ALTERNATIVE SPELLCASTING</h5>
+      <p>When you choose this bloodline at 1st level, instead of having spells known you instead have a spellbook containing four 1st level vampire spells of your choice (this is an exception to the rule requiring you to be of a level that can prepare a given level of spells before being able to copy them to your spellbook).</p>
+      <p>Each time you gain a vampire level, you can add one vampire spell of your choice to your spellbook of a level that you are able to prepare. You may add additional vampire spells to your spellbook in the same way a wizard adds spells to theirs. In addition, wizard spell of the enchantment and necromancy schools are added to your spell list and are treated as vampire spells. You prepare spells in the same way wizards do and you can choose a number of vampire spells from your spellbook equal to your Charisma modifier + your vampire level to be prepared. You can cast a vampire spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. Even if you do not have the necessary legacy for casting a given level of spells, you may still scribe a spell of that level in your spellbook and cast it as a ritual.</p>
+      <p>
+        <span class="emphasis">Cantrips</span> You learn three cantrips of your choice from the wizard spell list at 1st level. You learn an additional wizard cantrip of your choice at 10th level.
+        <br />
+        <span class="emphasis">Alternate Spellcasting Ability</span> At 1st level, you may choose whether to use Intelligence or Charisma as your spellcasting ability. If you choose Intelligence then use Intelligence instead of Charisma for your spell save DC, your spell attack bonus and your number of spells you can prepare.
+        <br />
+        <span class="emphasis">Blood Magic</span> All vampire characters belonging to the Thaumaturge Bloodline get the Blood Magic (level 2) legacy for free at 2nd level.
+      </p>
+      
+      <h5>MASTER OF THE BLACK ARTS</h5>
+      <p>Vampires belonging to the Thaumaturge Bloodline have an improved spell casting progression as shown below.</p>
+      
+      <h5>DARK SECRETS</h5>
+      <p>At 20th level, you may choose two more schools of spells. You may add wizard spells from those schools to your spellbook and cast them as vampire spells.</p>
+      
+      <h4>FERAL BLOODLINE</h4>
+      <p>The primogenitor of your line was a monstrous individual whose outside transformed to match their inside. New vampires of this bloodline are often chosen from those who are cast off from society, sometimes due to no fault of their own.</p>
+      
+      <h5>BESTIAL FURY</h5>
+      <p>Starting at 1st level, whenever you use a bonus action to attack with your unarmed strike via two weapon fighting, you may add your ability modifier to the damage of that attack.</p>
+      <p>Starting at 2nd level, you can use your bonus action to transform into a wolf. Otherwise this feature follows all the rules of Shapechanger and shares the same number of uses.</p>
+      <p>When you reach 9th level you can use a bonus action instead of an action to transform into Shapechanger's forms. In addition you can choose to transform into a dire wolf instead of a wolf.</p>
+      
+      <h5>WHAT SWEET MUSIC THEY MAKE</h5>
+      <p>Starting at 20th level, you regain your Children of the Night class feature whenever you complete a short rest. Also, you can sprout wings as a bonus action, gaining a flight speed equal to your current speed. They last until you dismiss them as a bonus action.</p>  
+      <p>You can't manifest your wings while wearing armor unless the armor was made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.</p>
+      
+      <h4>BEGUILER BLOODLINE</h4>
+      <p>The primogenitor of your line was a great and terrible leader who many were willing to follow even to their own death. New vampires of this bloodline often come from the noble classes or from people of great beauty.</p>
+      
+      <h5>DARK MAJESTY</h5>
+      <p>Starting at 1st level, when you are attacked by an enemy within 10 feet of you that you can see, you can use your reaction to force that enemy to make a Wisdom saving throw equal to your spell save DC. If they fail their save, their attack automatically misses. This is considered a charm effect. You can use this feature a number of times equal to your Charisma modifier. You regain all expended uses when you finish a long rest.</p>
+      <p>Starting at 6th level, you may have a number of thralls from your Vampire thrall ability equal to your Charisma modifier. All thralls may be given verbal commands with your bonus action. The sum total of your thralls' maximum hit points may not exceed your maximum hit points.</p>
+
+      <h5>EXTRA SKILL</h5>
+      <p>Starting a 1st level, you gain proficiency in one of the following skills:</p>
+      <p>Acrobatics, Arcana, Athletics, Deception, History, Intimidation, Investigation, Perception, Persuasion, Religion or Stealth.</p>
+
+      <h5>ENTRHALL</h5>
+      <p>Starting at 20th level, the sum total of your thralls' maximum hit points may not exceed double your maximum hit points. However, no single thrall's maximum hit points may exceed your maximum  hit points.</p>
+
+      <h3>BLOODLINE LEGACIES</h3>
+      <p>Legacies are features that are unique to vampires and often offer a way for players to customize their vampires in ways that fit their own playstyle. Legacies are chosen at every even level (i.e. 2nd, 4th, 6th, etc). While vampire PCs have the ability to cast 1st level spells by default, new legacies are required for learning spells beyond that so that those who want to play vampires without dealing with spellcasting all that much are able to do so.</p>
+      
+      <h5>AN ETERNITY TO LEARN</h5>
+      <p>Prerequisite: Blood Magic (Level 1), Thaumaturge Bloodline</p>
+      <p>You may choose two more schools of spells. You may add wizard spells from those schools to your spellbook and cast them as vampire spells.</p>
+      
+      <h5>ARE WE TO HAVE NOTHING TONIGHT?</h5>
+      <p>Prerequisite: Beguilder Bloodline</p>
+      <p>You may spend a spell slot to have a number of thralls equal to the level of the spent spell slot perform a Charming Gaze as a free against against one target they can see within 30 ft. If the target can see them they must succeed on a Wisdom save with a DC equal to your spell save DC or be charmed and grant advantage to any attack rolls made by your or any thralls under your control. The target may attempt to perform a Wisdom save against the same DC at the end of each of their turns or when they are damaged by a non-bite attack to end this effect.</p>
+      
+      <h5>BESTIAL REFLEXES</h5>
+      <p>Prerequisite: Feral Bloodline</p>
+      <p>You can take the Dodge, Dash, Disengage, or Hide action as a bonus action on your turn.</p>
+      
+      <h5>BLOOD DRINKER</h5>
+      <p>When you regain hit points as a result of making a bite attack, you regain an amount equal to the amount of damage you dealt with the bite attack instead of half.</p>
+      
+      <h5>BLOOD MAGIC (Level 1)</h5>
+      <p>Note: All vampire characters get this for free once they reach level 2.</p>
+      <p>You may use 1st level spell slots gained from the vampire class.</p>
+      
+      <h5>BLOOD MAGIC (Level 2)</h5>
+      <p>Prerequisite: Blood Magic (Level 1)</p>
+      <p>Note: All vampire characters belonging to the Thaumaturge Bloodline get this for free once they reach level 2.</p>
+      <p>You may use 2nd level spell slots gained from the vampire class.</p>
+      
+      <h5>BLOOD MAGIC (Level 3)</h5>
+      <p>Prerequisite: Blood Magic (Level 2)</p>
+      <p>You may use 3rd level spell slots gained from the vampire class.</p>
+      
+      <h5>BLOOD MAGIC (Level 4)</h5>
+      <p>Prerequisite: Blood Magic (Level 3)</p>
+      <p>You may use 4th level spell slots gained from the vampire class.</p>
+      
+      <h5>BLOOD MAGIC (Level 5)</h5>
+      <p>Prerequisite: Blood Magic (Level 4)</p>
+      <p>You may use 5th level spell slots gained from the vampire class.</p>
+      
+      <h5>BREAKER OF WILLS</h5>
+      <p>Prerequisite: Hypnotizing Gaze class feature, Beguiler Bloodline</p>
+      <p>You gain two uses of the Hypnotizing Gaze features instead of one when you finish a short or long rest.</p>
+      
+      <h5>CORRUPTED ARTIFACTS</h5>
+      <p>Prerequisite: Thaumaturge Bloodline</p>
+      <p>Choose either Bard, Cleric, Druid, Sorceror, Warlock or Wizard. You count as that class for determining what magic items you can use. You can select this legacy multiple times. Each time you select it again you can choose one more class to count as for magic item usage.</p>
+      
+      <h5>ETERNAL WARRIOR</h5>
+      <p>You gain proficiency in all martial weapons.</p>
+      
+      <h5>ETERNAL WEAPONMASTER</h5>
+      <p>Prerequisite: Knight Bloodline</p>
+      <p>You may select a single Fighting Style from the options available to the Fighter class in the Player's Handbook. You may select this legacy a second time. If you do, you may select an additional Fighting Style from the options available to the Fighter class.</p>
+      
+      <h5>FEED, MY PRECIOUS ONE</h5>
+      <p>Prerequisite: Vampire thrall class feature</p>
+      <p>Instead of unarmed strikes your thrall(s) will make a bite attack against a nearby willing, charmed, incapacitated, or restrained creatures if they are acting instinctively and one is in reach. Otherwise they will attack with an unarmed strike as normal. If you commanded your thrall(s) to make a bite attack this turn by using your bonus action, they can make one additional bite attack this turn if the target is able to be the target of a bite attack.</p>
+      
+      <h5>FEEDING FRENZY</h5>
+      <p>Prerequisite: Feed, My Precious One</p>
+      <p>You and your thralls can perform bite attacks in place of normal unarmed strikes any time you would have advantage against a target.</p>
+      
+      <h5>FOR THE DEAD TRAVEL FAST</h5>
+      <p>Increase your movement speed by 10 feet</p>
+      
+      <h5>HONOR AMONGST THE DEAD</h5>
+      <p>Prerequisite: Knight Bloodline</p>
+      <p>When you make a melee attack against an adjacent creature and no other creature is adjacent to either you or your target then you have advantage on attack rolls against that creature.</p>
+      <p>You can’t benefit from this if a creature friendly to you damaged the target creature or cast a harmful spell on the target creature since your last turn</p>
+      
+      <h5>IMMORTAL SOUL</h5>
+      <p>Prerequisite: 10th level in vampire</p>
+      <p>Double your Constitution modifier when determining how many hit points you regain from Enduring Soul.</p>
+      
+      <h5>JAWS OF DEATH</h5>
+      <p>If you hit with a bite attack then all subsequent bite attacks against the same target automatically hit until you receive damage from a melee attack.</p>
+      
+      <h5>MISTY ESCAPE</h5>
+      <p>Prerequisite: Shapechanger class feature</p>
+      <p>As a reaction, you may transform into mist form. You may also spend a hit die to regain health as part of the same reaction. If you have no more uses of the Shapechanger class feature left then you can not transform into mist form. You still revert back to your true form if reduced to zero hit points.</p>
+      
+      <h5>MUTILATE</h5>
+      <p>Prerequisite: Rend and Tear, 16th level in vampire, Feral Bloodline</p>
+      <p>Your unarmed strikes and bite attacks deal 1d10 damage instead of 1d8.</p>
+      
+      <h5>REND AND TEAR</h5>
+      <p>Prerequisite: 12th level in vampire</p>
+      <p>Your unarmed strikes and bite attacks deal 1d8 damage instead of 1d6.</p>
+      
+      <h5>SUPERNATURAL RESISTANCE</h5>
+      <p>Prerequisite: 20th level in vampire</p>
+      <p>You gain resistance to bludgeoning, piercing, and slashing damage from non-magical weapons.</p>
+      
+      <h5>UNDEAD ADEPT</h5>
+      <p>Gain proficiency in any combination of three skills or tools of your choice.</p>
+      
+      <h5>UNDEAD RESILIENCE</h5>
+      <p>Choose one ability score. You gain proficiency in saving throws pertaining to that ability score.</p>
+      
+      <h5>UNDEAD SAVANT</h5>
+      <p>Prerequisite: Beguiler Bloodline or Thaumaturge Bloodline</p>
+      <p>Choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. You may selected this legacy multiple times. Each time you select after the first, you may pick two more of your skill proficiencies to be improved.</p>
+      
+      <h5>UNDEAD SCHOLAR</h5>
+      <p>Prerequisite: Beguiler Bloodline or Thaumaturge Bloodline</p>
+      <p>You can add half your proficiency bonus, rounded down, to any ability check involving a skill you make  that doesn’t already include your proficiency bonus.</p>
+      
+      <h5>UNHOLY NATURE</h5>
+      <p>You, any of your thralls, and any undead you control as a result of spells(such as Animate Dead), have advantage on their saving throws to avoid being affected by Turn Undead, Turn the Unholy, or any other turning spells. Also they will not be automatically destroyed if they fail their saving throw against being turned.</p>
+      
+      <h5>UNHOLY SMITE</h5>
+      <p>Prerequisite: Knight Bloodline or Feral Bloodline</p>
+      <p>When you hit a creature with a weapon attack, a bite attack, or an unarmed strike, you can expend one vampire spell slot to deal necrotic damage to the target, in addition to the weapon’s damage. The extra damage is 1d8 for each level of the spell slot to a maximum of 4d8.</p>
+      
+      <h5>UNINVITED GUEST</h5>
+      <p>You no longer require an invitation to enter someone’s residence.</p>
+      
+      <h5>WE WALK AMONGST YOU</h5>
+      <p>Prerequisite: Beguiler Bloodline, 4th level in vampire</p>
+      <p>You no longer take damage for ending your turn in direct sunlight.</p>
+      
+      <h5>VAMPIRIC FORTITUDE</h5>
+      <p>As a reaction when you take non-radiant damage, you may spend one hit dice to gain resistance against that instance of damage. During your turn you may expend a spell slot to reduce damage from all non-radiant sources by 1 for each level of the spell slot for 1 minute. This damage reduction does not stack with resistance to that damage type, so when you take damage you must choose either the damage reduction gained from expending a spell slot or any other source of resistance you may have but not both.</p>
+      
+      <h5>VAMPIRIC POWER</h5>
+      <p>When you successfully grapple a target, you may spend one hit dice to make a bite attack as a bonus action this turn. During your turn you may expend a spell slot to gain advantage on your Strength (Athletics) checks for 1 minute for each level of the spell slot.</p>
+      
+      <h5>VAMPIRIC SENSES</h5>
+      <p>You know if there is a living humanoid creature within 30 feet of you as long as they haven’t done anything to mask their smell. You may spend a hit dice to completely negate the positive effects gained by invisibility for all enemies within 30 feet for 1 minute. During your turn you may expend a spell slot to gain advantage on your Wisdom (Perception) checks for 1 minute for each level of the spell slot.</p>
+      
+      <h5>VAMPIRIC SPEED</h5>
+      <p>When initiative is rolled, you may spend one hit dice to add your proficiency bonus to your initiative roll. During your turn you may expend a spell slot to gain a bonus to your movement speed equal to 10 feet for each level of the spell slot for 1 minute.</p>
+      
+      <h5>VAMPIRIC WILL</h5>
+      <p>When you use a spell or ability gained from this class to charm a target, you may spend one hit dice to grant the target disadvantage to their wisdom saving throw against this effect. During your turn you may expend a spell slot to gain advantage on your Charisma (Persuasion) and Charisma (Intimidation) checks for 1 minute for each level of the spell slot.</p>
+      
+      <h5>YOU ARE MINE NOW</h5>
+      <p>Prerequisite: Shared Blood class feature</p>
+      <p>You can use Shared Blood on restrained or incapacitated humanoids or humanoids charmed by you.</p>
+      
+      <h3>VAMPIRE BACKGROUNDS</h3>
+      <p>While there are plenty of backgrounds that are perfectly workable for a vampire PC in other books, vampires often experience things that shape them that the living rarely experience. All of the backgrounds listed below are available for vampire PCs and some of them might even work for living PCs with little or no re-working(e.g. scion and vampire hunter).</p>
+      
+      <h4>ADOPTEE</h4>
+      <p>Normally when a new vampire is created, they enter into a relationship that is not terribly unlike that of a parent and a child. The newly born thrall is taught to hunt the living like the cattle they are and one day they gain their independence. However in your case, your creator was destroyed not long after you were created. Unlike some vampires who generally die when left to fend for themselves in a world that hates and fears them, you were taken in by someone else who either took pity on you or still saw some shred of your former humanity in you.</p>
+      <p>Were you taken in by another vampire or was it maybe a group of the living who hoped that they could help you fight your vampiric nature? Are they doing this out of a genuine concern for you or are they hoping to use you as a pawn in some game or as some kind of super weapon? Are they the same person or people who killed your creator? Did they know you from when you were still living? How do you feel about them? Do you harbor resentment for the death of your creator? Do you appreciate the ways they may have helped you?</p>
+      <p>A character from the adoptee background could reasonably fit into a wide variety of adventuring parties, especially if they tend to value things like redemption or pragmatism. While many people are justifiably uncomfortable around a creature higher up than them on the food chain, their fears might be somewhat offset if the person who took you in is reputable. Even a party of vampire hunters might see you as a lesser evil to be used as a tool in fighting the more destructive undead out there. </p>
+      <p>
+        <span class="emphasis">Skill Proficiencies: </span>Choose two from among Insight, Persuasion, Religion, or Survival 
+        <br />
+        <span class="emphasis">Tool Proficiencies: </span>One type of gaming set or one type of artisan’s tools
+        <br />
+        <span class="emphasis">Languages: </span>One of your choice
+        <br />
+        <span class="emphasis">Equipment: </span>A set of common clothes, a letter from your mentor, a belt pouch containing 15 gold pieces
+      </p>
+      
+      <h5>FEATURE: MENTOR</h5>
+      <p>The person who took you in is either a person or a group of people that is respected (or possibly feared) by a lot of people. They are there to instruct you in the ways of the world and even to help you escape danger if necessary. Generally, anywhere your mentor is well thought of or respected (or feared) is a place where you should be relatively safe from harm or reprisal.</p>
+      
+      <h4></h4>
+      <p></p>
+      
+      <h5></h5>
+      <p></p>
+      
+      
+      <p>ID_HOMEBREW_CLASS_FEATURE_CHILD_OF_THE_NIGHT</p>
+      <p>ID_HOMEBREW_CLASS_FEATURE_BLOOD_IS_LIFE</p>
+      <p>ID_HOMEBREW_CLASS_FEATURE_ENDURING_SOUL</p>
+      <p>ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_REFLEXES</p>
+      <p>ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_BLOODLINE</p>
+      <p>ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY</p>
+      <p></p>
+      
+      
     </description>
+    <sheet display="false">
+      <description>An undead creature powered by the blood of victims it feeds on.</description>
+    </sheet>
     <setters>
       <set name="hd">d8</set>
     </setters>
@@ -46,8 +435,220 @@
       <grant type="Proficiency" name="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" requirements="!ID_HOMEBREW_MULTICLASS_VAMPIRE"/>
       <grant type="Proficiency" name="ID_PROFICIENCY_SAVINGTHROW_DEXTERITY" requirements="!ID_HOMEBREW_MULTICLASS_VAMPIRE"/>
       <grant type="Proficiency" name="ID_PROFICIENCY_SAVINGTHROW_CHARISMA" requirements="!ID_HOMEBREW_MULTICLASS_VAMPIRE"/>
+      <grant type="Class Feature" name="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_BLOODLINE" level="1"/>
+      <grant type="Class Feature" name="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY" level="2"/>
     </rules>
   </element>
+  
+  <element name="Legacy" type="Class Feature" source="Homebrew" id="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY">
+    <description>
+      <h5>AN ETERNITY TO LEARN</h5>
+      <p>Prerequisite: Blood Magic (Level 1), Thaumaturge Bloodline</p>
+      <p>You may choose two more schools of spells. You may add wizard spells from those schools to your spellbook and cast them as vampire spells.</p>
+      
+      <h5>ARE WE TO HAVE NOTHING TONIGHT?</h5>
+      <p>Prerequisite: Beguilder Bloodline</p>
+      <p>You may spend a spell slot to have a number of thralls equal to the level of the spent spell slot perform a Charming Gaze as a free against against one target they can see within 30 ft. If the target can see them they must succeed on a Wisdom save with a DC equal to your spell save DC or be charmed and grant advantage to any attack rolls made by your or any thralls under your control. The target may attempt to perform a Wisdom save against the same DC at the end of each of their turns or when they are damaged by a non-bite attack to end this effect.</p>
+      
+      <h5>BESTIAL REFLEXES</h5>
+      <p>Prerequisite: Feral Bloodline</p>
+      <p>You can take the Dodge, Dash, Disengage, or Hide action as a bonus action on your turn.</p>
+      
+      <h5>BLOOD DRINKER</h5>
+      <p>When you regain hit points as a result of making a bite attack, you regain an amount equal to the amount of damage you dealt with the bite attack instead of half.</p>
+      
+      <h5>BLOOD MAGIC (Level 2)</h5>
+      <p>Prerequisite: Blood Magic (Level 1)</p>
+      <p>Note: All vampire characters belonging to the Thaumaturge Bloodline get this for free once they reach level 2.</p>
+      <p>You may use 2nd level spell slots gained from the vampire class.</p>
+      
+      <h5>BLOOD MAGIC (Level 3)</h5>
+      <p>Prerequisite: Blood Magic (Level 2)</p>
+      <p>You may use 3rd level spell slots gained from the vampire class.</p>
+      
+      <h5>BLOOD MAGIC (Level 4)</h5>
+      <p>Prerequisite: Blood Magic (Level 3)</p>
+      <p>You may use 4th level spell slots gained from the vampire class.</p>
+      
+      <h5>BLOOD MAGIC (Level 5)</h5>
+      <p>Prerequisite: Blood Magic (Level 4)</p>
+      <p>You may use 5th level spell slots gained from the vampire class.</p>
+      
+      <h5>BREAKER OF WILLS</h5>
+      <p>Prerequisite: Hypnotizing Gaze class feature, Beguiler Bloodline</p>
+      <p>You gain two uses of the Hypnotizing Gaze features instead of one when you finish a short or long rest.</p>
+      
+      <h5>CORRUPTED ARTIFACTS</h5>
+      <p>Prerequisite: Thaumaturge Bloodline</p>
+      <p>Choose either Bard, Cleric, Druid, Sorceror, Warlock or Wizard. You count as that class for determining what magic items you can use. You can select this legacy multiple times. Each time you select it again you can choose one more class to count as for magic item usage.</p>
+      
+      <h5>ETERNAL WARRIOR</h5>
+      <p>You gain proficiency in all martial weapons.</p>
+      
+      <h5>ETERNAL WEAPONMASTER</h5>
+      <p>Prerequisite: Knight Bloodline</p>
+      <p>You may select a single Fighting Style from the options available to the Fighter class in the Player's Handbook. You may select this legacy a second time. If you do, you may select an additional Fighting Style from the options available to the Fighter class.</p>
+      
+      <h5>FEED, MY PRECIOUS ONE</h5>
+      <p>Prerequisite: Vampire thrall class feature</p>
+      <p>Instead of unarmed strikes your thrall(s) will make a bite attack against a nearby willing, charmed, incapacitated, or restrained creatures if they are acting instinctively and one is in reach. Otherwise they will attack with an unarmed strike as normal. If you commanded your thrall(s) to make a bite attack this turn by using your bonus action, they can make one additional bite attack this turn if the target is able to be the target of a bite attack.</p>
+      
+      <h5>FEEDING FRENZY</h5>
+      <p>Prerequisite: Feed, My Precious One</p>
+      <p>You and your thralls can perform bite attacks in place of normal unarmed strikes any time you would have advantage against a target.</p>
+      
+      <h5>FOR THE DEAD TRAVEL FAST</h5>
+      <p>Increase your movement speed by 10 feet</p>
+      
+      <h5>HONOR AMONGST THE DEAD</h5>
+      <p>Prerequisite: Knight Bloodline</p>
+      <p>When you make a melee attack against an adjacent creature and no other creature is adjacent to either you or your target then you have advantage on attack rolls against that creature.</p>
+      <p>You can’t benefit from this if a creature friendly to you damaged the target creature or cast a harmful spell on the target creature since your last turn</p>
+      
+      <h5>IMMORTAL SOUL</h5>
+      <p>Prerequisite: 10th level in vampire</p>
+      <p>Double your Constitution modifier when determining how many hit points you regain from Enduring Soul.</p>
+      
+      <h5>JAWS OF DEATH</h5>
+      <p>If you hit with a bite attack then all subsequent bite attacks against the same target automatically hit until you receive damage from a melee attack.</p>
+      
+      <h5>MISTY ESCAPE</h5>
+      <p>Prerequisite: Shapechanger class feature</p>
+      <p>As a reaction, you may transform into mist form. You may also spend a hit die to regain health as part of the same reaction. If you have no more uses of the Shapechanger class feature left then you can not transform into mist form. You still revert back to your true form if reduced to zero hit points.</p>
+      
+      <h5>MUTILATE</h5>
+      <p>Prerequisite: Rend and Tear, 16th level in vampire, Feral Bloodline</p>
+      <p>Your unarmed strikes and bite attacks deal 1d10 damage instead of 1d8.</p>
+      
+      <h5>REND AND TEAR</h5>
+      <p>Prerequisite: 12th level in vampire</p>
+      <p>Your unarmed strikes and bite attacks deal 1d8 damage instead of 1d6.</p>
+      
+      <h5>SUPERNATURAL RESISTANCE</h5>
+      <p>Prerequisite: 20th level in vampire</p>
+      <p>You gain resistance to bludgeoning, piercing, and slashing damage from non-magical weapons.</p>
+      
+      <h5>UNDEAD ADEPT</h5>
+      <p>Gain proficiency in any combination of three skills or tools of your choice.</p>
+      
+      <h5>UNDEAD RESILIENCE</h5>
+      <p>Choose one ability score. You gain proficiency in saving throws pertaining to that ability score.</p>
+      
+      <h5>UNDEAD SAVANT</h5>
+      <p>Prerequisite: Beguiler Bloodline or Thaumaturge Bloodline</p>
+      <p>Choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. You may selected this legacy multiple times. Each time you select after the first, you may pick two more of your skill proficiencies to be improved.</p>
+      
+      <h5>UNDEAD SCHOLAR</h5>
+      <p>Prerequisite: Beguiler Bloodline or Thaumaturge Bloodline</p>
+      <p>You can add half your proficiency bonus, rounded down, to any ability check involving a skill you make  that doesn’t already include your proficiency bonus.</p>
+      
+      <h5>UNHOLY NATURE</h5>
+      <p>You, any of your thralls, and any undead you control as a result of spells(such as Animate Dead), have advantage on their saving throws to avoid being affected by Turn Undead, Turn the Unholy, or any other turning spells. Also they will not be automatically destroyed if they fail their saving throw against being turned.</p>
+      
+      <h5>UNHOLY SMITE</h5>
+      <p>Prerequisite: Knight Bloodline or Feral Bloodline</p>
+      <p>When you hit a creature with a weapon attack, a bite attack, or an unarmed strike, you can expend one vampire spell slot to deal necrotic damage to the target, in addition to the weapon’s damage. The extra damage is 1d8 for each level of the spell slot to a maximum of 4d8.</p>
+      
+      <h5>UNINVITED GUEST</h5>
+      <p>You no longer require an invitation to enter someone’s residence.</p>
+      
+      <h5>WE WALK AMONGST YOU</h5>
+      <p>Prerequisite: Beguiler Bloodline, 4th level in vampire</p>
+      <p>You no longer take damage for ending your turn in direct sunlight.</p>
+      
+      <h5>VAMPIRIC FORTITUDE</h5>
+      <p>As a reaction when you take non-radiant damage, you may spend one hit dice to gain resistance against that instance of damage. During your turn you may expend a spell slot to reduce damage from all non-radiant sources by 1 for each level of the spell slot for 1 minute. This damage reduction does not stack with resistance to that damage type, so when you take damage you must choose either the damage reduction gained from expending a spell slot or any other source of resistance you may have but not both.</p>
+      
+      <h5>VAMPIRIC POWER</h5>
+      <p>When you successfully grapple a target, you may spend one hit dice to make a bite attack as a bonus action this turn. During your turn you may expend a spell slot to gain advantage on your Strength (Athletics) checks for 1 minute for each level of the spell slot.</p>
+      
+      <h5>VAMPIRIC SENSES</h5>
+      <p>You know if there is a living humanoid creature within 30 feet of you as long as they haven’t done anything to mask their smell. You may spend a hit dice to completely negate the positive effects gained by invisibility for all enemies within 30 feet for 1 minute. During your turn you may expend a spell slot to gain advantage on your Wisdom (Perception) checks for 1 minute for each level of the spell slot.</p>
+      
+      <h5>VAMPIRIC SPEED</h5>
+      <p>When initiative is rolled, you may spend one hit dice to add your proficiency bonus to your initiative roll. During your turn you may expend a spell slot to gain a bonus to your movement speed equal to 10 feet for each level of the spell slot for 1 minute.</p>
+      
+      <h5>VAMPIRIC WILL</h5>
+      <p>When you use a spell or ability gained from this class to charm a target, you may spend one hit dice to grant the target disadvantage to their wisdom saving throw against this effect. During your turn you may expend a spell slot to gain advantage on your Charisma (Persuasion) and Charisma (Intimidation) checks for 1 minute for each level of the spell slot.</p>
+      
+      <h5>YOU ARE MINE NOW</h5>
+      <p>Prerequisite: Shared Blood class feature</p>
+      <p>You can use Shared Blood on restrained or incapacitated humanoids or humanoids charmed by you.</p>
+    </description>
+    <sheet />
+    <rules>
+      <select type="Class Feature" name="Legacy" supports="Legacy" level="2"/>
+    </rules>
+  </element>
+  
+  <element name="An Eternity to Learn" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY_AN_ETERNITY_TO_LEARN">
+    <supports>Legacy, Vampire</supports>
+    <description>
+      <p>Prerequisite: Blood Magic (Level 1), Thaumaturge Bloodline</p>
+      <p>You may choose two more schools of spells. You may add wizard spells from those schools to your spellbook and cast them as vampire spells.</p>
+    </description>
+    <sheet>
+      <description>
+        <p>Prerequisite: Blood Magic (Level 1), Thaumaturge Bloodline</p>
+        <p>You may choose two more schools of spells. You may add wizard spells from those schools to your spellbook and cast them as vampire spells.</p>
+      </description>
+    </sheet>
+    <rules>
+    </rules>
+  </element>
+  
+  <element name="Are We to Have Nothing Tonight?" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY_ARE_WE_TO_HAVE_NOTHING_TONIGHT">
+    <supports>Legacy, Vampire</supports>
+    <description>
+      <p>Prerequisite: Beguilder Bloodline</p>
+      <p>You may spend a spell slot to have a number of thralls equal to the level of the spent spell slot perform a Charming Gaze as a free against against one target they can see within 30 ft. If the target can see them they must succeed on a Wisdom save with a DC equal to your spell save DC or be charmed and grant advantage to any attack rolls made by your or any thralls under your control. The target may attempt to perform a Wisdom save against the same DC at the end of each of their turns or when they are damaged by a non-bite attack to end this effect.</p>
+    </description>
+    <sheet>
+      <description>
+        <p>Prerequisite: Beguilder Bloodline</p>
+        <p>You may spend a spell slot to have a number of thralls equal to the level of the spent spell slot perform a Charming Gaze as a free against against one target they can see within 30 ft. If the target can see them they must succeed on a Wisdom save with a DC equal to your spell save DC or be charmed and grant advantage to any attack rolls made by your or any thralls under your control. The target may attempt to perform a Wisdom save against the same DC at the end of each of their turns or when they are damaged by a non-bite attack to end this effect.</p>
+      </description>
+    </sheet>
+    <rules>
+    </rules>
+  </element>
+  
+  <element name="Bestial Reflexes" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY_BESTIAL_REFLEXES">
+    <supports>Legacy, Vampire</supports>
+    <description>
+      <p>Prerequisite: Feral Bloodline</p>
+      <p>You can take the Dodge, Dash, Disengage, or Hide action as a bonus action on your turn.</p>
+    </description>
+    <sheet>
+      <description>
+        <p>Prerequisite: Feral Bloodline</p>
+        <p>You can take the Dodge, Dash, Disengage, or Hide action as a bonus action on your turn.</p>
+      </description>
+    </sheet>
+    <rules>
+      <grant type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_CUNNING_ACTION"/>
+    </rules>
+  </element>
+  
+  <element name="" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY_">
+    <supports>Legacy, Vampire</supports>
+    <description>
+      <p></p>
+      <p></p>
+    </description>
+    <sheet>
+      <description>
+        <p></p>
+        <p></p>
+      </description>
+    </sheet>
+    <rules>
+    </rules>
+  </element>
+  
+  
+  
+  
 </elements>
     
       
