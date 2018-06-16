@@ -64,7 +64,8 @@
       <select type="Racial Trait" name="Ability Score Increase (Vryloka)" supports="Vryloka" number="1" />
       <stat name="Speed" value="+35" />
       <grant type="Size" name="ID_SIZE_MEDIUM" />
-      <grant type="Language" name ="ID_LANGUAGE_COMMON" />
+      <grant type="Language" name="ID_LANGUAGE_COMMON"/>
+      <select type="Language" name="Language (Human)" supports="Starting"/>
       <grant type="Racial Trait" name="ID_RACIAL_TRAIT_DARKVISION" />
       <grant type="Racial Trait" name="ID_RACIAL_TRAIT_UNDEAD_RESISTANCE" />
       <grant type="Racial Trait" name="ID_RACIAL_TRAIT_STEALTHY_HUNTER" />
