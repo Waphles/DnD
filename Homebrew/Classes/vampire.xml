@@ -133,7 +133,7 @@
       <p>At the start of each of your turns, you regain hit points equal to your Constitution modifier (with a minimum of at least one) if you have no more than half your hit points left. You don't gain this benefit if you have 0 hit points or if you took radiant damage since your last turn.</p>
       
       <h4>VAMPIRIC REFLEXES</h4>
-      <p>Start at 1st level, when you aren't wearing armor or carrying a shield, your AC equals 13 + your Dexterity modifier.</p>
+      <p>Starting at 1st level, when you aren't wearing armor or carrying a shield, your AC equals 13 + your Dexterity modifier.</p>
       
       <h4>VAMPIRIC BLOODLINE</h4>
       <p>Choose a vampiric bloodline. This bloodline can be traced back to an elder vampire from long ago and determines many of the vampire's strengths. The bloodlines are Knight, Thaumaturge, Feral and Beguiler. Your choice grants you features when you choose it at 1st level and again at 20th level.</p>
@@ -435,6 +435,7 @@
       <description>An undead creature powered by the blood of victims it feeds on.</description>
     </sheet>
     <setters>
+      <set name="short">An undead creature powered by the blood of victims it feeds on.</set>
       <set name="hd">d8</set>
     </setters>
     <rules>
