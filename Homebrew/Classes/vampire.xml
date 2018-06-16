@@ -38,18 +38,24 @@
       
       <h5>HIT POINTS</h5>
       <p>
-        <span class="emphasis">Hit Dice:</span> special (see the Blood is Life class feature)
+        <span class="emphasis">Hit Dice:</span> Special (see the Blood is Life class feature)
         <br />
         <span class="emphasis">Hit Points at 1st Level:</span> 8 + your Constitution modifier
         <br />
         <span class="emphasis">Hit Points at Higher Levels:</span> 1d8 (or 5) + your Constitution modifier per vampire level after 1st
       </p>
       <h5>PROFICIENCIES</h5>
-      <p>Armor: None</p>
-      <p>Weapons: Simple Weapons</p>
-      <p>Tools: None</p>
-      <p>Saving Throws: Dexterity, Charisma</p>
-      <p>Skills: Choose two skills from Acrobatics, Arcana, Athletics, Deception, History, Intimidation, Investigation, Perception, Persuasion, Religion and Stealth.</p>
+      <p>
+        <span class="emphasis">Armor:</span> None
+        <br />
+        <span class="emphasis">Weapons:</span> Simple Weapons
+        <br />
+        <span class="emphasis">Tools:</span> None
+        <br />
+        <span class="emphasis">Saving Throws:</span> Dexterity, Charisma
+        <br />
+        <span class="emphasis">Skills:</span> Choose two skills from Acrobatics, Arcana, Athletics, Deception, History, Intimidation, Investigation, Perception, Persuasion, Religion and Stealth.
+      </p>
       
       <h5>EQUIPMENT</h5>
       <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
@@ -67,59 +73,59 @@
           <i>(b)</i> two simple weapons
         </li>
         <li>
-          <i>a</i> belt pouch containing 20 gold
+          a belt pouch containing 20 gold
         </li>
       </ul>
       
       <h4>CHILD OF THE NIGHT</h4>
       <ul>
         <li>
-          <i>You</i> are an undead creature. You are unaffected by anything that affects only living creatures. You don't age, require food or water, or suffer the effects of exhaustion unless it is the result of one of your class features.
+          You are an undead creature. You are unaffected by anything that affects only living creatures. You don't age, require food or water, or suffer the effects of exhaustion unless it is the result of one of your class features.
         </li>
         <li>
-          <i>You</i> have darkvision.
+          You have darkvision.
         </li>
         <li>
-          <i>You</i> are resistant to necrotic damage.
-          <i>You</i> are vulnerable to radiant damage.
+          You are resistant to necrotic damage.
+          You are vulnerable to radiant damage.
         </li>
         <li>
-          <i>If</i> you end your turn in direct sunlight and lack a protective covering (such as a cloak or other heavy clothing), you take 10 radiant damage (which may be doubled by your vulnerability to radiant damag). If you drop below 1 hit point from this damage, you are instantly destroyed and may only be restored to your former undead state with a true resurrection or wish spell. While you are in direct sunlight you have disadvantage on attack rolls and ability checks.
-          <i>The</i> radiant damage only applies when in direct sunlight from the actual sun and does not apply for any other form of light even in the case of spells, abilities or magic items that mimic the effect of the sun.
+          If you end your turn in direct sunlight and lack a protective covering (such as a cloak or other heavy clothing), you take 10 radiant damage (which may be doubled by your vulnerability to radiant damag). If you drop below 1 hit point from this damage, you are instantly destroyed and may only be restored to your former undead state with a true resurrection or wish spell. While you are in direct sunlight you have disadvantage on attack rolls and ability checks.
+          The radiant damage only applies when in direct sunlight from the actual sun and does not apply for any other form of light even in the case of spells, abilities or magic items that mimic the effect of the sun.
         </li>
         <li>
-          <i>You</i> may not enter a residence without an invitation from one of the occupants.
+          You may not enter a residence without an invitation from one of the occupants.
         </li>
         <li>
-          <i>If</i> a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated, the vampire is paralyzed until the stake is removed.
+          If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated, the vampire is paralyzed until the stake is removed.
         </li>
         <li>
-          <i>You</i> roll a d6 for your unarmed strikes in place of the normal damage die. Your unarmed strikes count as magical for the purposes of overcoming resistances and immunity to nonmagical attacks and damage. You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes. Your unarmed strikes count as light melee weapons for the purpose of two weapon fighting. 
+          You roll a d6 for your unarmed strikes in place of the normal damage die. Your unarmed strikes count as magical for the purposes of overcoming resistances and immunity to nonmagical attacks and damage. You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes. Your unarmed strikes count as light melee weapons for the purpose of two weapon fighting. 
         </li>        
         <li>
-          <i>You</i> automatically pass all death saving throws. You regain 1 hit point 1d4 minutes after you stabilize.
+          You automatically pass all death saving throws. You regain 1 hit point 1d4 minutes after you stabilize.
         </li>
       </ul>
 
       <h4>BLOOD IS LIFE</h4>
       <ul>
         <li>
-          <i>You</i> have two hit dice that are not regained from a long rest. If you have more than two hit dice at the end of a long rest then you lose enough hit dice to bring you back down to two hit dice.
+          You have two hit dice that are not regained from a long rest. If you have more than two hit dice at the end of a long rest then you lose enough hit dice to bring you back down to two hit dice.
         </li>
         <li>
-          <i>Any</i> hit dice spent for healing will heal you for half of your maximum hit points, rounded up.
+          Any hit dice spent for healing will heal you for half of your maximum hit points, rounded up.
         </li>
         <li>
-          <i>Against</i> a living creature that is either willing, charmed, grappled by you, incapacitated, or restrained you may use one of your attacks to perform a bite attack. This attack deals 1d6 damage and you may use either Strength or Dexterity for the attack and damage rolls. If the creature has any hit dice then they lose one hit dice each time they are the victim of your bite attack. If they don't have any hit dice then their hit point maximum is reduced by the amount of damage dealt by this bite attack. This hit point maximum reduction lasts until the creature takes a long rest. Each time a creature is the victim of your bite attack, you may choose to either regain a hit dice (up to a maximum of four hit dice) or you may regain hit points equal to half the damage dealt by the bite attack rounded up.
+          Against a living creature that is either willing, charmed, grappled by you, incapacitated, or restrained you may use one of your attacks to perform a bite attack. This attack deals 1d6 damage and you may use either Strength or Dexterity for the attack and damage rolls. If the creature has any hit dice then they lose one hit dice each time they are the victim of your bite attack. If they don't have any hit dice then their hit point maximum is reduced by the amount of damage dealt by this bite attack. This hit point maximum reduction lasts until the creature takes a long rest. Each time a creature is the victim of your bite attack, you may choose to either regain a hit dice (up to a maximum of four hit dice) or you may regain hit points equal to half the damage dealt by the bite attack rounded up.
         </li>
         <li>
-          <i>An</i> adjacent living creature can willingly lose one hit dice and take one point of damage to grant you a hit dice.
+          An adjacent living creature can willingly lose one hit dice and take one point of damage to grant you a hit dice.
         </li>
         <li>
-          <i>If</i> your Strength, Dexterity or Constitution are less than 12, then increase them to 12.
+          If your Strength, Dexterity or Constitution are less than 12, then increase them to 12.
         </li>
         <li>
-          <i>As</i> a free action on your turn, you can spend any number of hit dice to regain a number of spell slots equal to half your proficiency bonus rounded up for each hit dice spent in this way.
+          As a free action on your turn, you can spend any number of hit dice to regain a number of spell slots equal to half your proficiency bonus rounded up for each hit dice spent in this way.
         </li>
       </ul>
       
@@ -209,11 +215,11 @@
       <p>When you choose this bloodline at 1st level, instead of having spells known you instead have a spellbook containing four 1st level vampire spells of your choice (this is an exception to the rule requiring you to be of a level that can prepare a given level of spells before being able to copy them to your spellbook).</p>
       <p>Each time you gain a vampire level, you can add one vampire spell of your choice to your spellbook of a level that you are able to prepare. You may add additional vampire spells to your spellbook in the same way a wizard adds spells to theirs. In addition, wizard spell of the enchantment and necromancy schools are added to your spell list and are treated as vampire spells. You prepare spells in the same way wizards do and you can choose a number of vampire spells from your spellbook equal to your Charisma modifier + your vampire level to be prepared. You can cast a vampire spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. Even if you do not have the necessary legacy for casting a given level of spells, you may still scribe a spell of that level in your spellbook and cast it as a ritual.</p>
       <p>
-        <span class="emphasis">Cantrips</span> You learn three cantrips of your choice from the wizard spell list at 1st level. You learn an additional wizard cantrip of your choice at 10th level.
+        <span class="emphasis">Cantrips:</span> You learn three cantrips of your choice from the wizard spell list at 1st level. You learn an additional wizard cantrip of your choice at 10th level.
         <br />
-        <span class="emphasis">Alternate Spellcasting Ability</span> At 1st level, you may choose whether to use Intelligence or Charisma as your spellcasting ability. If you choose Intelligence then use Intelligence instead of Charisma for your spell save DC, your spell attack bonus and your number of spells you can prepare.
+        <span class="emphasis">Alternate Spellcasting Ability:</span> At 1st level, you may choose whether to use Intelligence or Charisma as your spellcasting ability. If you choose Intelligence then use Intelligence instead of Charisma for your spell save DC, your spell attack bonus and your number of spells you can prepare.
         <br />
-        <span class="emphasis">Blood Magic</span> All vampire characters belonging to the Thaumaturge Bloodline get the Blood Magic (level 2) legacy for free at 2nd level.
+        <span class="emphasis">Blood Magic:</span> All vampire characters belonging to the Thaumaturge Bloodline get the Blood Magic (level 2) legacy for free at 2nd level.
       </p>
       
       <h5>MASTER OF THE BLACK ARTS</h5>
