@@ -442,7 +442,7 @@
       <grant type="Proficiency" name="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" requirements="!ID_HOMEBREW_MULTICLASS_VAMPIRE"/>
       <grant type="Proficiency" name="ID_PROFICIENCY_SAVINGTHROW_DEXTERITY" requirements="!ID_HOMEBREW_MULTICLASS_VAMPIRE"/>
       <grant type="Proficiency" name="ID_PROFICIENCY_SAVINGTHROW_CHARISMA" requirements="!ID_HOMEBREW_MULTICLASS_VAMPIRE"/>
-      <grant type="Class Feature" name="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_BLOODLINE" level="1"/>
+      <!-- grant type="Class Feature" name="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_BLOODLINE" level="1"/> -->
       <grant type="Class Feature" name="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY" level="2"/>
     </rules>
   </element>
