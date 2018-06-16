@@ -432,10 +432,10 @@
       
     </description>
     <sheet display="false">
-      <description>An undead creature powered by the blood of victims it feeds on.</description>
+      <description>An undead creature powered by the blood of the victims it feeds on.</description>
     </sheet>
     <setters>
-      <set name="short">An undead creature powered by the blood of victims it feeds on.</set>
+      <set name="short">An undead creature powered by the blood of the victims it feeds on.</set>
       <set name="hd">d8</set>
     </setters>
     <rules>
