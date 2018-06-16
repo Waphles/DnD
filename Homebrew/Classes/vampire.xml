@@ -588,6 +588,22 @@
     </rules>
   </element>
   
+  <element name="" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_BLOODLINE">
+    <supports>Bloodline, Vampire</supports>
+    <description>
+      <p>Yo, you gotta bloodline now.</p>
+      <p>Knight, Beguiler, Feral, Thaumaturge</p>
+    </description>
+    <sheet>
+      <description>
+        <p></p>
+        <p></p>
+      </description>
+    </sheet>
+    <rules>
+    </rules>
+  </element>
+
   <element name="An Eternity to Learn" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY_AN_ETERNITY_TO_LEARN">
     <supports>Legacy, Vampire</supports>
     <description>
@@ -649,8 +665,8 @@
     </sheet>
     <rules>
     </rules>
-</element>
-  
+  </element>
+    
   <element name="" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_CLASS_FEATURE_VAMPIRIC_LEGACY_">
     <supports>Legacy, Vampire</supports>
     <description>
