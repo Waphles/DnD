@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+  <info>
+    <name>Blood Elf</name>
+    <description>
+      The progenitor to all current day elves, Blood Elves were born with a magical tie to the powers of the Well of Eternity.
+    </description>
+    <author url="https://www.dandwiki.com/wiki/Blood_Elf,_Variant_(5e_Race)">Blood Elf, Variant (5e Race)</author>
+    <update version="0.1.0">
+      <file name="blood-elf.xml" url="https://raw.githubusercontent.com/Waphles/DnD/Homebrew/Races/blood-elf.xml" />
+    </update>
+  </info>
+  
+  <element name="Blood Elf" type="Race" source="5e Wiki" id="ID_5EWIKI_RACE_BLOOD_ELF">
+    <supports />
+    <description>
+      <p class="flavor">The progenitor to all current day elves, Blood Elves were born with a magical tie to the powers of the Well of Eternity.</p>
+      
+      <h4>Physical Description</h4>
+      <p>Physically identical to High Elves, Blood Elves tend to wear gold's and red to remind themselves of their race's terrible losses. Many painted runes or mysterious tattoos on their faces, arms and shoulders for warding off demons or celebrating significant kills or simply to look intimidating — something high elves would never do. As well, they adopted hair styles that went against the norms of high elf society. Blood Elf males typically have slender, muscular, and athletic bodies. They also possess long pointy ears, acute senses and keen sight in the darkness. Blood Elf females can possess much the same, albeit typically sporting a slim elven physique. Like all elves, blood elves are considered highly attractive by the standards of most mortal races.</p>
+      
+      <h4>History</h4>
+      <p>Cut off from the powerful energies of the Well of Eternity and no longer immortal, many of the high elves died from exposure or starvation during their long journey.</p>
+      <p>Using a vial of sacred water stolen from the first Well of Eternity, the high elves created a fount of mystical power at a convergence of powerful ley energies in Quel'Thalas. They named this fountain the Sunwell, and its potent arcane magic fed and strengthened all high elves. The power of the high elves grew, and they cast an enchantment on the forest that would keep them bathed in eternal springtime.</p>
+      
+      <h4>Society</h4>
+      <p>Many Blood Elves paint runes or mysterious tattoos on their faces, arms and shoulders for warding off demons or celebrating significant kills or simply to look intimidating — something high elves would never do. As well, they adopted hairstyles that went against the norms of high elf society.</p>
+      
+      <h4>Blood Elf Names</h4>
+      <p>Blood Elves have the same names as High Elves.</p>
+      <p>Elves are considered children until they declare themselves adults, some time after the hundredth birthday, and before this period they are called by child names.</p>
+      <p class="indent">On declaring adulthood, an elf selects an adult name, although those who knew him or her as a youngster might continue to use the child name. Each elf’s adult name is a unique creation, though it might reflect the names of respected individuals or other family members. Little distinction exists between male names and female names; the groupings here reflect only general tendencies. In addition, every elf bears a family name, typically a combination of other Elvish words. Some elves traveling among humans translate their family names into Common, but others retain the Elvish version.</p>
+      <p>
+        <span class="feature">Child Names:</span>Ara, Bryn, Del, Eryn, Faen, Innil. Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Syllin, Thia, Vall<br />
+        <span class="feature">Male Adult Names:</span>Adran, Aelar, Aramil, Arannis, Aust, Beiro, Berrian, Carric , Enialis, Erdan, Erevan, Galinndan, Hadarai, Heian, Himo, Immeral, Ivellios, Laucian, Mindartis, Paelias, Peren, Quarion, Riardon, Rolen, Soveliss, Thamior, Tharivol, Theren, Varis
+        <br />
+        <span class="feature">Female Adult Names:</span>Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrynna, Birel, Caelynn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keyleth, Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna, Quillathe, Sariel, Shanairra, Shava, Silaqui, Theirastra, Thia, Vadania, Valanthe, Xanaphia
+        <br />
+        <span class="feature">Family Names (Common Translations):</span>Amakiir (Gemflower), Amastacia (Starflower), Galanodel (Moonwhisper), Holimion (Diamonddew), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheel), Nai'lo (Nightbreeze), Siannodel (Moonbrook), Xiloscient (Goldpetal)
+      </p>
+      
+      <h4>Blood Elf Traits</h4>
+      <p>
+        <span class="feature">Ability Scores: </span>Your Dexterity score increases by 2.Your Constitution by 1 and Wisdom or Intelligence score increases by 2.
+        <br />
+        <span class="feature">Age: </span>Blood elves reach physical maturity at about the same age as humans, but can live to be more than 1,000 years old. Blood Elves are considered to be mature starting at the age of 10.
+        <br />
+        <span class="feature">Alignment: </span>Blood Elves tend to be of any alignment depending on their goals.
+        <br />
+        <span class="feature">Size: </span>Blood elves range from just over 5 to over 6 feet tall and have slender builds. Your size is Medium.
+        <br />
+        <span class="feature">Speed: </span>Your base walking speed is 35 feet.
+        <br />
+        <span class="feature">Superior Darkvision: </span>Your Darkvision has a radius of 120 ft.
+        <br />
+        <span class="feature">Blood Elf Weapon Training: </span>You have proficiency with martial weapons gain a +1 to melee attack rolls.
+        <br />
+        <span class="feature">Arcane Acuity: </span>You have proficiency in the Arcana skill and have an advantage on it. You have a +1 to spell attack rolls and +1 to damage or heal rolls.
+        <br />
+        <span class="feature">Blood Elf Ancestry: </span>You are immune to sleep spells and have an advantage against being charmed.
+        <br />
+        <span class="feature">Trance: </span>Elves don’t need to sleep. Instead, they meditate deeply, remaining semi-conscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+        <br />
+        <span class="feature">Higher Education: </span>Your knowledge of History and Religion has given you proficiency in them, and reading comes quicker to you than other people, allowing you to read faster.
+        <br />
+        <span class="feature">Arcane Resistance: </span>You may choose one magical type of resistance.
+        <br />
+        <span class="feature">Ageless Elegance: </span>Like most elves they are immune to natural diseases. Also just like most elves, they are beautiful compared to others and have an advantage on Persuasion checks.
+        <br />
+        <span class="feature">Languages: </span>You can speak, read and write Common, Elvish, one Exotic language and one other language.
+      </p>
+      
+      <h4>Random Height and Weight</h4>
+      <p>
+        <span class="emphasis">Male Base Height: </span>5'4" + 2d6 inches
+        <br />
+        <span class="emphasis">Female Base Height: </span>5'2" + 2d6 inches
+        <br />
+        <span class="emphasis">Male Base Weight: </span>130 + 2d12 lbs
+        <br />
+        <span class="emphasis">Female Base Weight: </span>120 + 2d12 lbs
+      </p>
+    </description>
+    
+    <sheet display="false>
+    <setters>
+      <set name="names" type="male"></set>
+      <set name="names" type="female"></set>
+      <set name="names-format">$(name) $(family)</set>
+      <set name="height" modifier="2d6">5'4"</set>
+      <set name="weight" modifier="2d12">130 lb.</set>
+    </setters>
+    <rules>
+      <stat name="Dexterity" value="+2" />
+      <stat name="Constitution" value="+1" />
+      <select type="Racial Trait" name="Ability Score Increase (Blood Elf)" supports="Blood Elf" number="1" />
+      <stat name="Speed" value="+35" />
+      <grant type="Size" name="ID_SIZE_MEDIUM" />
+      <grant type="Vision" name="ID_VISION_SUPERIORDARKVISION" />
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_ARCANE_ACUITY" />
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_HIGHER_EDUCATION" />
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_ARCANE_RESISTANCE" />
+      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_DAMAGE_RESISTANCE" />
+      <grant type="Language" name="ID_LANGUAGE_COMMON"/>
+      <grant type="Language" name="ID_LANGUAGE_ELVISH"/>
+      <select type="Language" name="Language (Blood Elf)" supports="Starting" />
+      <select type="Language" name="Language (Exotic)" supports="Starting" />
+    </rules>
+  </element>
+  
+  <element name="Ability Score Increase (Intelligence)" type="Racial Trait" source="5e Wiki" id="ID_RACE_BLOOD_ELF_INTELLIGENCE">
+    <supports>Blood Elf</supports>
+    <requirements />
+    <description>
+      <p>Your Intelligence increases by 1.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="Intelligence" value="+1"/>
+    </rules>
+  </element>
+  <element name="Ability Score Increase (Wisdom)" type="Racial Trait" source="5e Wiki" id="ID_RACE_BLOOD_ELF_WISDOM">
+    <supports>Blood Elf</supports>
+    <requirements />
+    <description>
+      <p>Your Wisdom increases by 1.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="Wisdom" value="+1"/>
+    </rules>
+  </element>
+  
+  <element name="Arcane Acuity" type="Racial Trait" source="5e Wiki"  id="ID_RACIAL_TRAIT_ARCANE_ACUITY">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>You have proficiency in the Arcana skill and have an advantage on it.</p>
+    </description>
+    <sheet>
+      <description>You have proficiency in the Arcana skill and have an advantage on it.</description>
+    </sheet>
+    <rules>
+      <grant type="Proficiency" name="ID_PROFICIENCY_SKILL_ARCANA" />
+    </rules>
+  </element>
+  
+  <element name="Higher Education" type="Racial Trait" source="5e Wiki"  id="ID_RACIAL_TRAIT_HIGHER_EDUCATION">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>Your knowledge of History and Religion has given you proficiency in them, and reading comes quicker to you than other people, allowing you to read faster.</p>
+    </description>
+    <sheet>
+      <description>Your knowledge of History and Religion has given you proficiency in them, and reading comes quicker to you than other people, allowing you to read faster.</description>
+    </sheet>
+    <rules>
+      <grant type="Proficiency" name="ID_PROFICIENCY_SKILL_HISTORY" />
+      <grant type="Proficiency" name="ID_PROFICIENCY_SKILL_RELIGION" />
+    </rules>
+  </element>
+
+  <element name="Superior Darkvision" type="Vision" source="5e Wiki" id="ID_VISION_SUPERIORDARKVISION">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>Thanks to your magical ties to the Well of Eternity, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.</p>
+    </description>
+    <sheet>
+      <description>Thanks to your magical ties to the Well of Eternity, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.</description>
+    </sheet>
+    <rules>
+      <grant type="Vision" name="ID_VISION_SUPERIORDARKVISION" />
+    </rules>
+  </element>
+  
+  <element name="Arcane Resistance" type="Racial Trait" source="5e Wiki" id="ID_RACIAL_TRAIT_ARCANE_RESISTANCE">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>You have resistance to one type of magical damage type. Choose one type of resistance from the table below:</p>
+      <h5>ARCANE RESISTANCE</h5>
+      <table>
+        <thead>
+          <tr>
+            <td>Arcane Resistance</td>
+          </tr>
+        </thead>
+        <tr>
+          <td>Acid</td>
+        </tr>
+        <tr>
+          <td>Lightning</td>
+        </tr>
+        <tr>
+          <td>Fire</td>
+        </tr>
+        <tr>
+          <td>Poison</td>
+        </tr>
+        <tr>
+          <td>Cold</td>
+        </tr>
+        <tr>
+          <td>Thunder</td>
+        </tr>
+        <tr>
+          <td>Psychic</td>
+        </tr>
+        <tr>
+          <td>Force</td>
+        </tr>
+        <tr>
+          <td>Radiant</td>
+        </tr>
+        <tr>
+          <td>Necrotic</td>
+        </tr>
+      </table>
+    </description>
+    <sheet />
+    <rules>
+      <select type="Racial Trait" name="Arcane Resistance" supports="Arcane Resistance" />
+    </rules>
+  </element>
+  
+  <element name="Damage Resistance" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DAMAGE_RESISTANCE">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>You have resistance to one magical damage type.</p>
+    </description>
+    <sheet>
+      <description>You have resistance to %arcane-resistance:arcane resistance%.</description>
+    </sheet>
+  </element>
+  
+</elements>
