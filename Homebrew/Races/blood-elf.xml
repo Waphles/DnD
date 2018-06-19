@@ -84,8 +84,8 @@
     
     <sheet display="false" />
     <setters>
-      <set name="names" type="male"></set>
-      <set name="names" type="female"></set>
+      <set name="names" type="male">Bob, Jim</set>
+      <set name="names" type="female">Barbara, Julie</set>
       <set name="height" modifier="2d6">5'4"</set>
       <set name="weight" modifier="2d12">130 lb.</set>
     </setters>
@@ -99,7 +99,7 @@
       <grant type="Racial Trait" name="ID_RACIAL_TRAIT_ARCANE_ACUITY" />
       <grant type="Racial Trait" name="ID_RACIAL_TRAIT_HIGHER_EDUCATION" />
       <grant type="Racial Trait" name="ID_RACIAL_TRAIT_ARCANE_RESISTANCE" />
-      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_DAMAGE_RESISTANCE" />
+<!--      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_DAMAGE_RESISTANCE" /-->
       <grant type="Language" name="ID_LANGUAGE_COMMON"/>
       <grant type="Language" name="ID_LANGUAGE_ELVISH"/>
       <select type="Language" name="Language (Blood Elf)" supports="Starting" />
