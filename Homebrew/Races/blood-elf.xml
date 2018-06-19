@@ -86,7 +86,6 @@
     <setters>
       <set name="names" type="male"></set>
       <set name="names" type="female"></set>
-      <set name="names-format">$(name) $(family)</set>
       <set name="height" modifier="2d6">5'4"</set>
       <set name="weight" modifier="2d12">130 lb.</set>
     </setters>
