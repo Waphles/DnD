@@ -98,7 +98,7 @@
       <grant type="Vision" name="ID_VISION_SUPERIORDARKVISION" />
       <grant type="Racial Trait" name="ID_RACIAL_TRAIT_ARCANE_ACUITY" />
       <grant type="Racial Trait" name="ID_RACIAL_TRAIT_HIGHER_EDUCATION" />
-      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_ARCANE_RESISTANCE" />
+<!--      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_ARCANE_RESISTANCE" /-->
 <!--      <grant type="Racial Trait" name="ID_RACIAL_TRAIT_DAMAGE_RESISTANCE" /-->
       <grant type="Language" name="ID_LANGUAGE_COMMON"/>
       <grant type="Language" name="ID_LANGUAGE_ELVISH"/>
@@ -111,22 +111,22 @@
     <supports>Blood Elf</supports>
     <requirements />
     <description>
-      <p>Your Intelligence increases by 1.</p>
+      <p>Your Intelligence increases by 2.</p>
     </description>
     <sheet display="false" />
     <rules>
-      <stat name="Intelligence" value="+1"/>
+      <stat name="Intelligence" value="+2"/>
     </rules>
   </element>
   <element name="Ability Score Increase (Wisdom)" type="Racial Trait" source="5e Wiki" id="ID_RACE_BLOOD_ELF_WISDOM">
     <supports>Blood Elf</supports>
     <requirements />
     <description>
-      <p>Your Wisdom increases by 1.</p>
+      <p>Your Wisdom increases by 2.</p>
     </description>
     <sheet display="false" />
     <rules>
-      <stat name="Wisdom" value="+1"/>
+      <stat name="Wisdom" value="+2"/>
     </rules>
   </element>
   
