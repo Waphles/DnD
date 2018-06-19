@@ -129,7 +129,7 @@
       <stat name="Wisdom" value="+1"/>
     </rules>
   </element>
-  <!--
+  
   <element name="Arcane Acuity" type="Racial Trait" source="5e Wiki"  id="ID_RACIAL_TRAIT_ARCANE_ACUITY">
     <supports></supports>
     <requirements />
@@ -158,7 +158,7 @@
       <grant type="Proficiency" name="ID_PROFICIENCY_SKILL_RELIGION" />
     </rules>
   </element>
-
+  <!--
   <element name="Superior Darkvision" type="Vision" source="5e Wiki" id="ID_VISION_SUPERIORDARKVISION">
     <supports></supports>
     <requirements />
