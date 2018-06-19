@@ -103,7 +103,7 @@
       <grant type="Language" name="ID_LANGUAGE_COMMON"/>
       <grant type="Language" name="ID_LANGUAGE_ELVISH"/>
       <select type="Language" name="Language (Blood Elf)" supports="Starting" />
-      <select type="Language" name="Language (Exotic)" supports="Starting" />
+      <select type="Language" name="Language (Exotic)" />
     </rules>
   </element>
   
