@@ -82,7 +82,7 @@
       </p>
     </description>
     
-    <sheet display="false />
+    <sheet display="false" />
     <setters>
       <set name="names" type="male"></set>
       <set name="names" type="female"></set>
