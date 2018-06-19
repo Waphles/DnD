@@ -172,7 +172,7 @@
       <grant type="Vision" name="ID_VISION_SUPERIORDARKVISION" />
     </rules>
   </element>
-<!--  
+  
   <element name="Arcane Resistance" type="Racial Trait" source="5e Wiki" id="ID_RACIAL_TRAIT_ARCANE_RESISTANCE">
     <supports></supports>
     <requirements />
