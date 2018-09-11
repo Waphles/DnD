@@ -59,8 +59,10 @@
       <div element="ID_HOMEBREW_COMMONER_THEDARNDESTTHING" />
       <div element="ID_HOMEBREW_COMMONER_MILDFLAVORING" />
       <div element="ID_HOMEBREW_COMMONER_ABILITYSCOREIMPROVEMENT" />
-      <div element="ID_WOTC_PHB_CLASS_FEATURE_EXTRAATTACK" />
-      <div element="ID_WOTC_PHB_CLASS_FEATURE_INDOMITABLE" />
+      <div element="ID_HOMEBREW_COMMONER_THECOMMMONERCOMBO" />
+      <div element="ID_HOMEBREW_COMMONER_GLASSHALFFULL" />
+      <div element="ID_HOMEBREW_COMMONER_WASTENOTWANTNOT" />
+      <div element="ID_HOMEBREW_COMMONER_TRAININGMONTAGE" />
     </description>
     <sheet display="false">
       <description>A commoner. Really, that's it. An everyday average Joe.</description>
