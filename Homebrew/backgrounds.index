@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Homebrew - Backgrounds</name>
+		<description>Homebrew backgrounds from various third party sources, mostly 5e Wiki.</description>
+		<author url=""></author>
+		<update version="0.0.1">
+			<file name="backgrounds.index" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/backgrounds.index" />
+		</update>
+	</info>
+	<files>
+		<file name="none.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/Backgrounds/none.xml" />
+	</files>
+</index>
