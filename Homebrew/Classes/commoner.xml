@@ -19,11 +19,11 @@
       <p>As a commoner, you gain the following class features.</p>
       <h5>HIT POINTS</h5>
       <p>
-        <span class="emphasis">Hit Dice:</span>1d10 per fighter level
+        <span class="emphasis">Hit Dice:</span>1d6 per commoner level
         <br />
-        <span class="emphasis">Hit Points at 1st Level:</span>10 + your Constitution modefier
+        <span class="emphasis">Hit Points at 1st Level:</span>6 + your Constitution modefier
         <br />
-        <span class="emphasis">Hit Points at Higher Levels:</span>1d10 (or 6) + your Constitution modifier per fighter level after 1st
+        <span class="emphasis">Hit Points at Higher Levels:</span>1d6(ADV)+ your Constitution modifier per commoner level after 1st
         <br />
       </p>
       <h5>PROFICIENCIES</h5>
