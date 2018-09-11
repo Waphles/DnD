@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>None</name>
+		<description>No background</description>
+		<author url="">Waphles</author>
+		<update version="0.0.1">
+			<file name="none.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/Backgrounds/none.xml" />
+		</update>
+	</info>
+
+	
+  <element name="No background" type="Background" source="HOMEBREW" id="ID_HOMEBREW_NOBACKGROUND">
+    <supports />
+    <requirements />
+    <description>
+      <p>You've done nothing important in your life at all. You've gained no useful knowledge, you've learned no special abilities and you don't have any interesting hobbies.</p>
+    </description>
+    <rules>
+    </rules>
+  </element>
+
+</elements>
