@@ -10,5 +10,6 @@
 	</info>
 	<files>
 		<file name="vampire.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/Classes/vampire.xml" />
+		<file name="commoner.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/Classes/commoner.xml" />
 	</files>
 </index>
