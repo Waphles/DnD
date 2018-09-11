@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+  <info>
+    <name>Commoner</name>
+    <description>Not all heroes wear armor, or capes, or sweet robes. Some heroes wear burlap, or linen. Wool? Whatever commoners wear.</description>
+    <author url="https://www.reddit.com/r/UnearthedArcana/comments/53b1nn/class_the_commoner/">Reddit - Kaberu</author>
+    <update version="0.1.0">
+      <file name="commoner.xml" url="https://raw.githubusercontent.com/Waphles/DnD/master/Homebrew/Classes/commoner.xml" />
+    </update>
+  </info>
+  <element name="Commoner" type="Class" source="Homebrew" id="ID_HOMEBREW_COMMONER">
+    <supports />
+    <requirements />
+    <description>
+      <p>Not all heroes wear capes. Or armor. Or chainmail bikinis, or sweet robes and hats covered in Velcro stars. Some heroes wear burlap. Or linen. Wool? Whatever it is that commoners wear. These are survivors, generations of helpful townsfolk who have been guiding would-be heroes along their way for as long as there have been dice to roll!</p>
+      <p>As a commoner, your never-say-die moxie and go-getter attitude has somehow led you into the jaws of adventure and danger. But we believe in you, even if your dad has his doubts.</p>
+      
+      <h3>CLASS FEATURES</h3>
+      <p>As a commoner, you gain the following class features.</p>
+      <h5>HIT POINTS</h5>
+      <p>
+        <span class="emphasis">Hit Dice:</span>1d10 per fighter level
+        <br />
+        <span class="emphasis">Hit Points at 1st Level:</span>10 + your Constitution modefier
+        <br />
+        <span class="emphasis">Hit Points at Higher Levels:</span>1d10 (or 6) + your Constitution modifier per fighter level after 1st
+        <br />
+      </p>
+      <h5>PROFICIENCIES</h5>
+      <p>
+        <span class="emphasis">Armor:</span>None
+        <br />
+        <span class="emphasis">Weapons:</span>Simple weapons
+        <br />
+        <span class="emphasis">Tools:</span>None
+        <br />
+      </p>
+      <p>
+        <span class="emphasis">Saving Throws:</span>Constitution
+        <br />
+        <span class="emphasis">Skills:</span>Choose one skill from Animal Handling, Athletics, Persuasion, Insight, Survival
+        <br />
+      </p>
+      <h5>EQUIPMENT</h5>
+      <p>You start with the following equipment. You also don't get a background. Those are way too fancy.</p>
+      <ul>
+        <li>
+          one set of tools with which you are proficient
+        </li>
+        <li>
+          2d10 copper pieces
+        </li>
+        <li>
+          probably a hovel somewhere
+        </li>
+      </ul>
+      <div element="ID_HOMEBREW_COMMONER_GOODPLAINFOLK" />
+      <div element="ID_HOMEBREW_COMMONER_CALLOWYOUTH" />
+      <div element="ID_HOMEBREW_COMMONER_THEDARNDESTTHING" />
+      <div element="ID_HOMEBREW_COMMONER_MILDFLAVORING" />
+      <div element="ID_HOMEBREW_COMMONER_ABILITYSCOREIMPROVEMENT" />
+      <div element="ID_WOTC_PHB_CLASS_FEATURE_EXTRAATTACK" />
+      <div element="ID_WOTC_PHB_CLASS_FEATURE_INDOMITABLE" />
+    </description>
+    <sheet display="false">
+      <description>A commoner. Really, that's it. An everyday average Joe.</description>
+    </sheet>
+    <setters>
+      <set name="short">A commoner. Really, that's it. An everyday average Joe.</set>
+      <set name="hd">d6</set>
+    </setters>
+    <rules>
+      <grant type="Proficiency" name="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
+      <grant type="Proficiency" name="ID_PROFICIENCY_SAVINGTHROW_CONSTITUTION" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
+      <select type="Proficiency" name="Skill Proficiency (Commoner)" supports="Skill,Commoner" number="1" requirements="!ID_HOMEBREW_COMMONER"/>
+
+      <grant type="Class Feature" name="ID_HOMEBREW_COMMONER_GOODPLAINFOLK" level="1"/>
+      <grant type="Class Feature" name="ID_HOMEBREW_COMMONER_CALLOWYOUTH" level="1"/>
+      <grant type="Class Feature" name="ID_HOMEBREW_COMMONER_THEDARNDESTTHING" level="2"/>
+      <grant type="Class Feature" name="ID_HOMEBREW_COMMONER_MILDFLAVORING" level="2"/>
+      <grant type="Class Feature" name="ID_HOMEBREW_COMMONER_ABILITYSCOREIMPROVEMENT" level="4"/>
+      <grant type="Class Feature" name="ID_HOMEBREW_COMMONER_THECOMMONERCOMBO" level="5"/>
+      <grant type="Class Feature" name="ID_HOMEBREW_COMMONER_GLASSHALFFULL" level="7"/>
+      <grant type="Class Feature" name="ID_HOMEBREW_COMMONER_WASTENOTWANTNOT" level="9"/>
+      <grant type="Class Feature" name="ID_HOMEBREW_COMMONER_TRAININGMONTAGE" level="10"/>
+    </rules>
+  </element>
+  <element name="Good Plain Folk" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_COMMONER_GOODPLAINFOLK">
+    <description>
+      <p>You are proficient in the use of artisan's tools as weapons and add your proficiency bonus when attack with them. They deal 1d4 of whatever damage type is appropriate for the tool.</p>
+      <p>All of your ability scores are 10 before racial modifiers and cannot be naturally increased. You're nothing special.</p>
+    </description>
+    <sheet />
+    <rules>
+    </rules>
+  </element>
+  <element name="Callow Youth" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_COMMONER_CALLOWYOUTH">
+    <description>
+      <p>And yet you know you're destined for greatness! You can give yourself advantage on any d20 roll by gritting your teeth and looking danger in the eye. You regain the use of this ability when you finish a long or short rest.</p>
+    </description>
+    <sheet>
+      <description>You can give yourself advantage on any d20 roll.</description>
+    </sheet>
+    <rules />
+  </element>
+  <element name="The Darndest Thing" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_COMMONER_THEDARNDESTTHING">
+    <description>
+      <p>Starting at 2nd level, you can survive the adventuring life through sheer coincidence. When you would be killed or reduced to 0 hp, you may the story (10 seconds or less) of how "the darndest thing happened" that completely prevented the effect. You regain the use of this ability when you finish a long rest.</p>
+    </description>
+    <sheet>
+      <description level="2">When you would be killed or reduced to 0 hp, you may tell the story (10 seconds or less) of how "the darndest thing happened" that completely prevented the effect or damage. You regain the use of this ability when you finish a long rest.</description>
+      <description level="6">When you would be killed or reduced to 0 hp, you may tell the story (10 seconds or less) of how "the darndest thing happened" that completely prevented the effect or damage. You regain the use of this ability when you finish a short or long rest.</description>
+    </sheet>
+    <rules />
+  </element>
+  <element name="Mild Flavoring" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_COMMONER_MILDFLAVORING">
+    <supports>2</supports>
+    <description>
+      <p>You are exhibiting signs of an honest-to-goodness adventurer. You favor the tendencies of a certain class and gain a feat associated with that choice. Prerequisites do not need to be met. Refer to the Class Flavoring Feats list below:</p>
+      <h5>Class Flavoring Feats</h5>
+      <p>Barbarian: Charger</p>
+      <p>Bard: Lucky</p>
+      <p>Cleric: Healer</p>
+      <p>Druid: Magic Initiate: Druid (Druidcraft, Guidance, Animal Friendship</p>
+      <p>Fighter: Weapon Master</p>
+      <p>Monk: Tavern Brawler</p>
+      <p>Paladin: Inspiring Leader</p>
+      <p>Ranger: Alert</p>
+      <p>Rogue: Skulker</p>
+      <p>Sorceror: Magit Initiate: Sorceror (Minor Illusion, Prestitidigitation, Sleep</p>
+      <p>Warlock: Magic Initiate: Warlock (Mage Hand, True Strike, Mage Armor)</p>
+      <p>Wizard: Ritual Caster: Wizard (Detect Magic, Find Familiar)</p>
+    </description>
+    <sheet />
+    <rules>
+      <select type="Mild Flavoring" name="Mild Flavoring" supports="Mild Flavoring" level="3" />
+    </rules>
+  </element>
+  <element name="Ability Score Improvement" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_COMMONER_ABILITYSCOREIMPROVEMENT">
+    <description>
+      <p>Just kidding. You still can't raise your scores. Choose a feat.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+    </rules>
+  </element>
+  <element name="The Commoner Combo!" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_COMMONER_THECOMMONERCOMBO">
+    <description>
+      <p>Starting at 5th level, you're beginning to think you're good at this! And every real hero needs a kickass personal move list.</p>
+      <p>When you hit with your artisan's tools, you can shout the name of a "special move" to add 5d4 damage to the attack and choose one of the following effects:
+      <ul>
+        <li>
+          You Shove the target.
+        </li>
+        <li>
+          The target must make a DC 12 Dexterity save. If it fails, it is blinded, grappled, poisoned or charmed (your choice) until the start of your next turn. Explain how your tools accomplish this effect.
+        </li>
+        <li>
+          One ally gains advantage on their next attack against the target.
+        </li>
+        <li>
+          You gain temporary hit points equal to your commoner level.
+        </li>
+      </ul>
+      <p>You can use this ability a number of times equal to your proficiency bonus, and you regain all uses after a short or long rest.</p>
+    </description>
+    <sheet>
+    </sheet>
+    <rules />
+  </element>
+  <element name="Glass Half Full" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_COMMONER_GLASSHALFFULL">
+    <description>
+      <p>Starting at level 7, if an attack or effect would inflict more than half your current hp, it deals half your current hp (rounded up) instead.</p>
+      <p>You can use this ability a number of times equal to 2 + your Charisma modifier (ha) and it refreshes when you use a short or long rest.</p>
+    </description>
+    <sheet>
+    </sheet>
+    <rules />
+  </element>
+  <element name="Waste Not, Want Not" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_COMMONER_WASTENOTWANTNOT">
+    <description>
+      <p>By level 9, you have been collecting scrap and hand-me-downs and somehow cobbled them into something functional. You gain an uncommon magic item of your choice, subject to DM approval and ideally based on your artisan's tools.</p>
+    </description>
+    <sheet>
+    </sheet>
+    <rules />
+  </element>
+  <element name="Training Montage" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_COMMONER_TRAININGMONTAGE">
+    <description>
+      <p>You've made it this far, so you might be cut out for this adventuring stuff after all. You can trade in this character for an authentic adventurer!</p>
+      <p>Choose a class to start in; you are now level 1. For putting in the extra effort of playing and surviving as a commoner, you gain a bonus feat.</p>
+    </description>
+    <sheet>
+    </sheet>
+    <rules />
+  </element>
+</elements>
