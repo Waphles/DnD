@@ -149,7 +149,7 @@
   <element name="The Commoner Combo!" type="Class Feature" source="HOMEBREW" id="ID_HOMEBREW_COMMONER_THECOMMONERCOMBO">
     <description>
       <p>Starting at 5th level, you're beginning to think you're good at this! And every real hero needs a kickass personal move list.</p>
-      <p>When you hit with your artisan's tools, you can shout the name of a "special move" to add 5d4 damage to the attack and choose one of the following effects:
+      <p>When you hit with your artisan's tools, you can shout the name of a "special move" to add 5d4 damage to the attack and choose one of the following effects:</p>
       <ul>
         <li>
           You Shove the target.
